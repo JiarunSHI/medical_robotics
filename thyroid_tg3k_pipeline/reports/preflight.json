@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "case_count": 90,
+  "case_splits": {
+    "train": 62,
+    "val": 14,
+    "test": 14
+  },
+  "local_frames": 72264,
+  "tg3k_splits": {
+    "train": 2244,
+    "unused": 802,
+    "val": 539
+  },
+  "all_bmp_sizes_checked": true,
+  "training_executed": false,
+  "inference_executed": false
+}

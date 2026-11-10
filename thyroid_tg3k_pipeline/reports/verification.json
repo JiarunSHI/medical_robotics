@@ -1,0 +1,24 @@
+{
+  "unit_tests_passed": 10,
+  "real_annotation_cross_checks": [
+    {
+      "case_id": 2,
+      "split": "train",
+      "matched_previous_masks": 14
+    },
+    {
+      "case_id": 3,
+      "split": "val",
+      "matched_previous_masks": 16
+    },
+    {
+      "case_id": 7,
+      "split": "test",
+      "matched_previous_masks": 14
+    }
+  ],
+  "training_executed": false,
+  "real_image_model_inference_executed": false,
+  "model_check": "synthetic forward only; no backward or optimizer update",
+  "local_label_policy": "original nonempty gland pairs only; fixed local case splits; unused TG3K pairs added to final test only; no pseudo labels"
+}

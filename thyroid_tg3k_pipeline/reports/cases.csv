@@ -1,0 +1,91 @@
+﻿case_id,split,image_directory,annotation,annotation_sha256,frames
+2,train,E:\第一组：贾树昕+刘子琪\WD00000002,D:\甲状腺通过标注\WD00000002_gland.seg.nrrd,8d7561f01c55ba0b46de66e446aefee21793302bc79a9051be3ca4bb9cd30cfa,655
+3,val,E:\第一组：贾树昕+刘子琪\WD00000003,D:\甲状腺通过标注\WD00000003_gland.seg.nrrd,5bc012d95fe0bdeec38a41bc158f2cc74b5e50de4c5f677af2e979accb3d8702,634
+4,train,E:\第一组：贾树昕+刘子琪\WD00000004,D:\甲状腺通过标注\WD00000004_gland.seg.nrrd,82ffda8e104cba0340faa45a5202bb97cbb34023362e96ee7ac815e36c9fe42a,904
+5,train,E:\第一组：贾树昕+刘子琪\WD00000005,D:\甲状腺通过标注\WD00000005_gland.seg.nrrd,890a95e27ec35ba18eb777c7bb94e7bd7cc09084eaa38e38e5e5f4b912e91d43,1272
+7,test,E:\第一组：贾树昕+刘子琪\WD00000007,D:\甲状腺通过标注\WD00000007_gland.seg.nrrd,612de0556b32706ea589ab1a77178bd7b39e4c18b3cc9509c17c1ec6f5f76dd8,973
+9,train,E:\第一组：贾树昕+刘子琪\WD00000009,D:\甲状腺通过标注\WD00000009_gland.seg.nrrd,4a864e7eddcd45af495f25f75544da62bb4744d7fab36723d8ca803cf11913fc,673
+11,test,E:\第一组：贾树昕+刘子琪（第二批数据）\WD00000011,D:\甲状腺通过标注\WD00000011_gland.seg.nrrd,1966a8ecb1d2c53bb1b147a199cf03a314ae4e6e7110da12794f9778f5297413,456
+13,val,E:\第一组：贾树昕+刘子琪\WD00000013,D:\甲状腺通过标注\WD00000013_gland.seg.nrrd,fc2df6094aebbe28ad0811999efc059a606d97722d1867e36f250e3157baa9b6,1050
+14,train,E:\第一组：贾树昕+刘子琪\WD00000014,D:\甲状腺通过标注\WD00000014_gland.seg.nrrd,1dc1bf20fff51743aa92b437b75be37fe76ca2a3a8f16b56a7b30ab272723f6f,474
+15,train,E:\第二组：周骐+李紫弯\WD00000015,D:\甲状腺通过标注\WD00000015_gland.seg.nrrd,c70b43ade9d0402b0e804964218d92056aa24b8591f2340212680b058b24cd90,774
+16,train,E:\第二组：周骐+李紫弯\WD00000016,D:\甲状腺通过标注\WD00000016_gland.seg.nrrd,ff5ce6574b5351e6b3c26595ce0fd732502cd675877f6e35e5280547709ff870,937
+17,train,E:\第二组：周骐+李紫弯\WD00000017,D:\甲状腺通过标注\WD000000017_gland.seg.nrrd,134bb20c0a22f44210220de205ed30d1f508dbfa44c0b2c9cd40f7cf8786eacb,599
+18,train,E:\第二组：周骐+李紫弯\WD00000018,D:\甲状腺通过标注\WD00000018_gland.seg.nrrd,498992fb7f2a933d1199dd9c26b1d16db8d0d55dc142b42f6aa139b13f9b89e7,642
+21,train,E:\第二组：周骐+李紫弯\WD00000021,D:\甲状腺通过标注\WD00000021_gland.seg.nrrd,7633248a7dae4a14e898ee737adf150fdeb8b1bcbbc361e224d41adb31f155cd,737
+22,train,E:\第二组：周骐+李紫弯\WD00000022,D:\甲状腺通过标注\WD00000022_gland.seg.nrrd,fc5ad12d91d817c170f36a09587d65565804217670124e7a36566b8954eb7495,482
+23,test,E:\第二组：周骐+李紫弯\WD00000023,D:\甲状腺通过标注\WD00000023_gland.seg.nrrd,128a3cdc5ff956d34cf65f51c899d6a739bda0d3483aa620af5f8e159be82cad,504
+25,train,E:\第二组：周骐+李紫弯\WD00000025,D:\甲状腺通过标注\WD00000025_gland.seg.nrrd,641d7e00f03648522a0eb872b6181640ca46fc316d7aa3354214f721799b7afa,905
+26,train,E:\第二组：周骐+李紫弯\WD00000026,D:\甲状腺通过标注\WD00000026_gland.seg.nrrd,a3f6f5121689b7103532e6ca354324ab186aed73a7c742279cbef44fbc51e775,451
+27,val,E:\第三组：乔俨楠+张佳慧\WD00000027,D:\甲状腺通过标注\WD00000027_gland.seg.nrrd,395b4cd9abb3835891ee0fa8fa4e6e3517643770811151bf56817d90102b93b2,640
+29,test,E:\第三组：乔俨楠+张佳慧\WD00000029,D:\甲状腺通过标注\WD00000029_gland.seg.nrrd,bc22635de7beffefb6fc900bcbc955d24226cd6ed8a4b4cfbfc5d459ba3181b8,728
+30,val,E:\第三组：乔俨楠+张佳慧\WD00000030,D:\甲状腺通过标注\WD00000030_gland.seg.nrrd,2bd3bc38a4c1e791e7c42672ff17552ba65b68db683c2ec1ba0ee7613e1c60ca,922
+33,train,E:\第三组：乔俨楠+张佳慧\WD00000033,D:\甲状腺通过标注\WD00000033_gland.seg.nrrd,bb9d6ddbc342d94758bfc5e3ed5becc57a7c47b634aac1266b4a0a498aeb66cb,679
+35,train,E:\第三组：乔俨楠+张佳慧\WD00000035,D:\甲状腺通过标注\WD00000035_gland.seg.nrrd,5cc979edc80af9d41f447369b00393fa57f530fcbd5f24187645ea1f75ee64de,786
+39,test,E:\第三组：乔俨楠+张佳慧\WD00000039,D:\甲状腺通过标注\WD00000039_gland.seg.nrrd,e14632c00c7a09c326631c99144ba0b115c7f6162cfa981567507f364b52f80a,834
+44,train,E:\第四组：黄琬淋+侯铮\WD00000044,D:\甲状腺通过标注\WD00000044_gland.seg.nrrd,d0ac208d28540ae9a05813aa334bcd2932c0d9c3510b41cd0f610f6a772a2e4e,1220
+45,train,E:\第四组：黄琬淋+侯铮\WD00000045,D:\甲状腺通过标注\WD00000045_gland.seg.nrrd,6c82687e4a5be74836a5910582dd05097ef7c8575c6116c9824733a5f5f62d5f,701
+46,train,E:\第四组：黄琬淋+侯铮\WD00000046,D:\甲状腺通过标注\WD00000046_gland.seg.nrrd,e548e623376dc9af76632953b6f4342b8f9222bf4e5b53b92834253e3801942e,676
+47,test,E:\第四组：黄琬淋+侯铮\WD00000047,D:\甲状腺通过标注\WD00000047_gland.seg.nrrd,62142c7d3bf4bbb6d08f10e49c8a6c574311df29317d51646eb4be9e11f53355,634
+48,val,E:\第四组：黄琬淋+侯铮\WD00000048,D:\甲状腺通过标注\WD00000048_gland.seg.nrrd,dced9ff5ce27e5d42023de63b0dc790e8927c716048e819bdfcd0cdb7fe7cc6b,1022
+49,train,E:\第四组：黄琬淋+侯铮\WD00000049,D:\甲状腺通过标注\WD00000049_gland.seg.nrrd,93959e6ff1c059315acdca3a87bee190a520fef2e2ff782145a9ff399e196c88,830
+50,train,E:\第四组：黄琬淋+侯铮\WD00000050,D:\甲状腺通过标注\WD00000050_gland.seg.nrrd,1f56bef1cbacb558fbf0a67231688cc582e177a0aaecf457f2e2e16302433650,784
+51,val,E:\第四组：黄琬淋+侯铮\WD00000051,D:\甲状腺通过标注\WD00000051_gland.seg.nrrd,ac1a21c8ae8f19126cfea0077a1c6fd8e5d9e3e8eb4cf25d3ec3af38f36e9876,624
+52,train,E:\第四组：黄琬淋+侯铮\WD00000052,D:\甲状腺通过标注\WD00000052_gland.seg.nrrd,e2deff45cac33b29890927ec22fd0c384a9600f81c8b9e4f876d286a45e97297,809
+53,test,E:\第五组：冯明玉+颜子寒\WD00000053,D:\甲状腺通过标注\WD00000053_gland.seg.nrrd,2ecc82261f8e79ec985d0eea84fde7278ff25f0da49968f243e185bc41fbe641,669
+54,train,E:\第五组：冯明玉+颜子寒\WD00000054,D:\甲状腺通过标注\WD00000054_gland.seg.nrrd,abe663a60bd3c53ebd319a33221490a5951a0f0a18ce97b74b5cdaeb550eacd4,909
+55,train,E:\第五组：冯明玉+颜子寒\WD00000055,D:\甲状腺通过标注\WD00000055_gland.seg.nrrd,22dc06242d1be5e2bda3bc2b19010b5cf250ce40977ab81591b651d0d68f3a2c,658
+56,train,E:\第五组：冯明玉+颜子寒\WD00000056,D:\甲状腺通过标注\WD00000056_gland.seg.nrrd,5a48148515fea629c26f0bba846ef24e38751a7283235b4c928b16ff496553d2,836
+57,train,E:\第五组：冯明玉+颜子寒\WD00000057,D:\甲状腺通过标注\WD00000057_gland.seg.nrrd,6c55224f866297fd5a6843e078b5993e48170f20684c1670a69582aa237f768e,694
+58,train,E:\第五组：冯明玉+颜子寒\WD00000058,D:\甲状腺通过标注\WD00000058_gland.seg.nrrd,1d4377c54fffc3eedda2c3b85be0290ea7da58f6ef8226613362c87e55e59515,1316
+59,val,E:\第五组：冯明玉+颜子寒\WD00000059,D:\甲状腺通过标注\WD00000059_gland.seg.nrrd,8af1342f1fd4120a5d2defcd1f238ef0bf9118fd701e61ca4d5fba2e581d520f,704
+60,test,E:\第五组：冯明玉+颜子寒\WD00000060,D:\甲状腺通过标注\WD00000060_gland.seg.nrrd,57adc7bb237501be5798546899c51d5b16fbd063d0461ca5b7887be7cd9cfe93,572
+61,train,E:\第五组：冯明玉+颜子寒\WD00000061,D:\甲状腺通过标注\WD00000061_gland.seg.nrrd,73dc343ed1485cc35652545347f914f671f347be3d465491842b4226e2fd73c6,697
+62,train,E:\第五组：冯明玉+颜子寒\WD00000062,D:\甲状腺通过标注\WD00000062_gland.seg.nrrd,19be0a5e060b3ac3cd5b1fc4694e5dcf6f9d70f873ac87615c24795c05a1aa89,708
+63,train,E:\第一组：贾树昕+刘子琪（第二批数据）\WD00000063,D:\甲状腺通过标注\WD00000063_gland.seg.nrrd,16a0fcf46191d4e217b0dc64750b0bce584045a1c6be61cbf689da17fa67e0c3,806
+64,train,E:\第一组：贾树昕+刘子琪（第二批数据）\WD00000064,D:\甲状腺通过标注\WD00000064_gland.seg.nrrd,414027a352fb27e12e303217cb2d260e0a0da846dc01a32eef0fb41256cb84f8,1135
+65,test,E:\第一组：贾树昕+刘子琪（第二批数据）\WD00000065,D:\甲状腺通过标注\WD00000065_gland.seg.nrrd,4b7dc19684c063711721361b7ee538115804a1d5d78fb0e8abf05e61015b652c,774
+66,train,E:\第一组：贾树昕+刘子琪（第二批数据）\WD00000066,D:\甲状腺通过标注\WD00000066_gland.seg.nrrd,b3489f536df2189b2652fbb8e36f8981a0d59359c1933a54d02541fe1dc8f857,803
+67,test,E:\第一组：贾树昕+刘子琪（第二批数据）\WD00000067,D:\甲状腺通过标注\WD00000067_gland.seg.nrrd,777542c899f53e03fe36616e986c15d000bef2d56a0c91a27b8960d90ef4ef21,719
+68,train,E:\第一组：贾树昕+刘子琪（第二批数据）\WD00000068,D:\甲状腺通过标注\WD00000068_gland.seg.nrrd,0439f86907e57084f03ee8ca289483ed57a0382414103b5039efcb02e72cb628,999
+69,train,E:\第一组：贾树昕+刘子琪（第二批数据）\WD00000069,D:\甲状腺通过标注\WD00000069_gland.seg.nrrd,96d778db8511044baaa3d833355878e331c2241945948e188d55534620f47139,889
+70,train,E:\第一组：贾树昕+刘子琪（第二批数据）\WD00000070,D:\甲状腺通过标注\WD00000070_gland.seg.nrrd,64d7ceb7486f370665f69a6c2d2de04d9e8f36aaa1625bef2f62b6d64bf5e9b6,723
+71,train,E:\第一组：贾树昕+刘子琪（第二批数据）\WD00000071,D:\甲状腺通过标注\WD00000071_gland.seg.nrrd,34e89c34b647e8d38a53277be4c858ac08a48bc6508a6aae2b3494ab97737491,1084
+74,test,E:\第二组：周   骐+李紫弯（第二批数据）\WD00000074,D:\甲状腺通过标注\WD00000074_gland.seg.nrrd,8057035b176ff3da6939561033dbc6614d81811a37027e267c09cb1588224d88,785
+75,train,E:\第二组：周   骐+李紫弯（第二批数据）\WD00000075,D:\甲状腺通过标注\WD00000075_gland.seg.nrrd,b6bfcfb5235c7450e899b633693f469aff6e5d69f6cb14b861a6163ffea56ee3,834
+76,test,E:\第二组：周   骐+李紫弯（第二批数据）\WD00000076,D:\甲状腺通过标注\WD00000076_gland.seg.nrrd,46ee02e876061b5cd8481e11eea44df1ac3fbd4a0918f50b7d28ec883489dadf,1100
+77,train,E:\第二组：周   骐+李紫弯（第二批数据）\WD00000077,D:\甲状腺通过标注\WD00000077_gland.seg.nrrd,c866a066d2ef648f6ca5ac83edb8f650ff1ad9492f49328a351b07cc3cc4f749,495
+78,train,E:\第二组：周   骐+李紫弯（第二批数据）\WD00000078,D:\甲状腺通过标注\WD00000078_gland.seg.nrrd,5f0cd2720885291cc13de3e5ee278d2693385bfd33f99f1a46b56dfeea996fc9,561
+79,val,E:\第二组：周   骐+李紫弯（第二批数据）\WD00000079,D:\甲状腺通过标注\WD00000079_gland.seg.nrrd,d99ecf0f43d289dabcbbd849f84652dc04f2e5fa2885024f8fa83e62690791b1,891
+80,train,E:\第二组：周   骐+李紫弯（第二批数据）\WD00000080,D:\甲状腺通过标注\WD00000080_gland.seg.nrrd,b096cfa4563393c90da3bc476c2f3f412aecf63493bdaa2fe68b4b32827859ed,1313
+81,train,E:\第二组：周   骐+李紫弯（第二批数据）\WD00000081,D:\甲状腺通过标注\WD00000081_gland.seg.nrrd,b8bdc55b6293ca459dd9542c9ef347555b805a9e4089de327c9f5042638f458c,1006
+82,train,E:\第二组：周   骐+李紫弯（第二批数据）\WD00000082,D:\甲状腺通过标注\WD00000082_gland.seg.nrrd,60909cff8c5dcf67efd21c5513dcbf01e75709f9d633f68225d611588e9366de,541
+83,train,E:\第二组：周   骐+李紫弯（第二批数据）\WD00000083,D:\甲状腺通过标注\WD00000083_gland.seg.nrrd,bd0a0b08981d7e546bb735174fa13d8e6f9e3d2ac33e5df7ef3d924d8ad3d740,936
+84,train,E:\第三组：乔俨楠+张佳慧（第二批数据）\WD00000084,D:\甲状腺通过标注\WD00000084_gland.seg.nrrd,f190881dc588e82820458688b0b70305ec90fc194fe64b35d78e69deab778193,697
+87,train,E:\第三组：乔俨楠+张佳慧（第二批数据）\WD00000087,D:\甲状腺通过标注\WD00000087_gland.seg.nrrd,4d43ac0a9b43784c8aac808c6d43cb22fb2aea22b7504bb96bbd00100f5a944d,391
+88,train,E:\第三组：乔俨楠+张佳慧（第二批数据）\WD00000088,D:\甲状腺通过标注\WD00000088_gland.seg.nrrd,39a28463cb24b3d7024d54a16f5db09ac61c6507145f211ab67987dfd35db15c,775
+89,test,E:\第三组：乔俨楠+张佳慧（第二批数据）\WD00000089,D:\甲状腺通过标注\WD00000089_gland.seg.nrrd,06f33b5f464581619ad9a0fbc6b539f97351ed361fa9d4dfd01af833d1f555ed,765
+90,train,E:\第三组：乔俨楠+张佳慧（第二批数据）\WD00000090,D:\甲状腺通过标注\WD00000090_gland.seg.nrrd,391c85a25f2c1af13a1be129a7c2aaa3487f6c0a83bd5f21aa567a8f1693a52d,681
+91,train,E:\第三组：乔俨楠+张佳慧（第二批数据）\WD00000091,D:\甲状腺通过标注\WD00000091_gland.seg.nrrd,d62c18c124d115196e266b05c7f6c98670c38ba760b8c51595bef3be3bc4f4a7,566
+92,train,E:\第三组：乔俨楠+张佳慧（第二批数据）\WD00000092,D:\甲状腺通过标注\WD00000092_gland.seg.nrrd,648424b73d46fa02a2b8c169ea78caef712c4c84b6ed03751ea5fcab99e518c1,1257
+93,train,E:\第三组：乔俨楠+张佳慧（第二批数据）\WD00000093,D:\甲状腺通过标注\WD00000093_gland.seg.nrrd,4f56c5e448e25400cbc0be8256f920c125158d52741e62ea0988a244327e49c4,2917
+94,train,E:\第三组：乔俨楠+张佳慧（第二批数据）\WD00000094,D:\甲状腺通过标注\WD00000094_gland.seg.nrrd,f09a6df6e5cbff7c6c058dda9ce4941e4851190af00a871a337449c20380497f,941
+95,val,E:\第三组：乔俨楠+张佳慧（第二批数据）\WD00000095,D:\甲状腺通过标注\WD00000095_gland.seg.nrrd,0fc0e4e1eee751fad7e8c425f7180d6d828a29967bbd327bed2c8037f5922786,535
+96,val,E:\第四组：黄琬淋+侯铮（第二批数据）\WD00000096,D:\甲状腺通过标注\WD00000096_gland.seg.nrrd,35f7d85f2e1c84e7cc781951c28e17483b65d61cd2d51d74827e45c1381b7dbb,711
+97,train,E:\第四组：黄琬淋+侯铮（第二批数据）\WD00000097,D:\甲状腺通过标注\WD00000097_gland.seg.nrrd,cb3843e668465eed47b896ab0279292596a346ead6a9858575572529e7217a51,570
+100,train,E:\第四组：黄琬淋+侯铮（第二批数据）\WD00000100,D:\甲状腺通过标注\WD00000100_gland.seg.nrrd,fdeb98f562c4be111999bb5ef8c4b1c15438e4cad8cd1296956e284a875a6d89,711
+101,train,E:\第四组：黄琬淋+侯铮（第二批数据）\WD00000101,D:\甲状腺通过标注\WD00000101_gland.seg.nrrd,dda8db98db9cd3ccfc70f6cca8b1621c3c9cc5f067d681081ddc3971fed9d812,649
+102,train,E:\第四组：黄琬淋+侯铮（第二批数据）\WD00000102,D:\甲状腺通过标注\WD00000102_gland.seg.nrrd,01050e969dd9e16b83b94906f8d1685b7fead8cc5d6631c74c45b5b3533d4314,661
+103,test,E:\第四组：黄琬淋+侯铮（第二批数据）\WD00000103,D:\甲状腺通过标注\WD00000103_gland.seg.nrrd,6bb99664d10c53188c89a7e3a39fa8d038779d2949536e2d6c83c0c5be34eeac,697
+104,train,E:\第四组：黄琬淋+侯铮（第二批数据）\WD00000104,D:\甲状腺通过标注\WD00000104_gland.seg.nrrd,29ffd17196270e285a7013ab5b1b73e2fedb9b03f97b018f7e858a8d27a7d0c2,993
+105,train,E:\第四组：黄琬淋+侯铮（第二批数据）\WD00000105,D:\甲状腺通过标注\WD00000105_gland.seg.nrrd,6d9a38fb1b5b57b4223499d9abac309f0b1d99821151f603cee003fdfa52f24c,717
+106,train,E:\第五组：冯明玉+颜子寒（第二批数据）\WD00000106,D:\甲状腺通过标注\WD00000106_gland.seg.nrrd,7463b21d7cbf81f9f69a699b895f1022652c18b82948d15013c754b1cb742744,839
+107,train,E:\第五组：冯明玉+颜子寒（第二批数据）\WD00000107,D:\甲状腺通过标注\WD00000107_gland.seg.nrrd,47197e82d72928bc2efc9cb3d4f5f5c9ed3776b3b8034db4b08968c1cef5d0da,568
+108,train,E:\第五组：冯明玉+颜子寒（第二批数据）\WD00000108,D:\甲状腺通过标注\WD00000108_gland.seg.nrrd,e81bc4d95270b01c87664a233d8f5c7e7e91dbb527b97484212cff76748f3291,729
+109,val,E:\第五组：冯明玉+颜子寒（第二批数据）\WD00000109,D:\甲状腺通过标注\WD00000109_gland.seg.nrrd,3664ff7992bc6f594eabdb4bc01d29aa4bc952b49458768dc2444289b7e3583f,1844
+110,val,E:\第五组：冯明玉+颜子寒（第二批数据）\WD00000110,D:\甲状腺通过标注\WD00000110_gland.seg.nrrd,80d25700cc577698b88c7ab77dff998b84b9f556d4d767016fba6f78cf1e71f2,983
+111,train,E:\第五组：冯明玉+颜子寒（第二批数据）\WD00000111,D:\甲状腺通过标注\WD00000111_gland.seg.nrrd,93b2234844f4e3823fb9b9b70a538ea0cbeaf30322151b1c3474add040083369,608
+112,val,E:\第五组：冯明玉+颜子寒（第二批数据）\WD00000112,D:\甲状腺通过标注\WD00000112_gland.seg.nrrd,aec1fd58c06eb189bc0960e6341f260b97b262abd46b50da756652ebda443fae,662
+113,val,E:\第五组：冯明玉+颜子寒（第二批数据）\WD00000113,D:\甲状腺通过标注\WD00000113_gland.seg.nrrd,d22509a7d805e682e60545b238e48db5a6214c8e53597921d7fae654f853fc3b,360
+114,train,E:\第五组：冯明玉+颜子寒（第二批数据）\WD00000114,D:\甲状腺通过标注\WD00000114_gland.seg.nrrd,56f5e877f04c5ac9190be7c549543e314c2d7e16b464677e95bd06e3b52e169c,407
+115,train,E:\第五组：冯明玉+颜子寒（第二批数据）\WD00000115,D:\甲状腺通过标注\WD00000115_gland.seg.nrrd,cd56cc85168810d64959f146a42310bd01a6d72e71c4afdffc26d02b47f2b2ed,862

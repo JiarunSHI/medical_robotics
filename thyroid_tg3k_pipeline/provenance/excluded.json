@@ -1,0 +1,156 @@
+[
+  {
+    "case_id": 10,
+    "target": "cs",
+    "reason": [
+      "annotation_status_inprogress",
+      "no_unique_shape_index_match"
+    ]
+  },
+  {
+    "case_id": 10,
+    "target": "gland",
+    "reason": [
+      "annotation_status_inprogress",
+      "no_unique_shape_index_match"
+    ]
+  },
+  {
+    "case_id": 20,
+    "target": "cs",
+    "reason": [
+      "annotation_status_inprogress",
+      "no_unique_shape_index_match"
+    ]
+  },
+  {
+    "case_id": 20,
+    "target": "gland",
+    "reason": [
+      "annotation_status_inprogress",
+      "no_unique_shape_index_match"
+    ]
+  },
+  {
+    "case_id": 28,
+    "target": "gland",
+    "reason": [
+      "annotation_status_inprogress",
+      "no_unique_shape_index_match"
+    ]
+  },
+  {
+    "case_id": 31,
+    "target": "cs",
+    "reason": [
+      "annotation_status_inprogress",
+      "no_unique_shape_index_match"
+    ]
+  },
+  {
+    "case_id": 31,
+    "target": "gland",
+    "reason": [
+      "annotation_status_inprogress",
+      "no_unique_shape_index_match"
+    ]
+  },
+  {
+    "case_id": 34,
+    "target": "cs",
+    "reason": [
+      "annotation_status_inprogress",
+      "no_unique_shape_index_match"
+    ]
+  },
+  {
+    "case_id": 34,
+    "target": "gland",
+    "reason": [
+      "annotation_status_inprogress",
+      "no_unique_shape_index_match"
+    ]
+  },
+  {
+    "case_id": 36,
+    "target": "cs",
+    "reason": [
+      "annotation_status_inprogress",
+      "no_unique_shape_index_match"
+    ]
+  },
+  {
+    "case_id": 36,
+    "target": "gland",
+    "reason": [
+      "annotation_status_inprogress",
+      "no_unique_shape_index_match"
+    ]
+  },
+  {
+    "case_id": 39,
+    "target": "cs",
+    "reason": [
+      "annotation_status_inprogress",
+      "no_unique_shape_index_match"
+    ]
+  },
+  {
+    "case_id": 40,
+    "target": "cs",
+    "reason": [
+      "annotation_status_inprogress",
+      "no_unique_shape_index_match"
+    ]
+  },
+  {
+    "case_id": 40,
+    "target": "gland",
+    "reason": [
+      "annotation_status_inprogress",
+      "no_unique_shape_index_match"
+    ]
+  },
+  {
+    "case_id": 61,
+    "target": "cs",
+    "reason": [
+      "annotation_status_inprogress",
+      "no_unique_shape_index_match"
+    ]
+  },
+  {
+    "case_id": 98,
+    "target": "gland",
+    "reason": [
+      "annotation_status_inprogress",
+      "no_unique_shape_index_match"
+    ]
+  },
+  {
+    "case_id": 99,
+    "target": "gland",
+    "reason": [
+      "annotation_status_inprogress",
+      "no_unique_shape_index_match"
+    ]
+  },
+  {
+    "case_id": 116,
+    "target": "cs",
+    "reason": [
+      "annotation_status_inprogress",
+      "missing_images",
+      "no_unique_shape_index_match"
+    ]
+  },
+  {
+    "case_id": 116,
+    "target": "gland",
+    "reason": [
+      "annotation_status_inprogress",
+      "missing_images",
+      "no_unique_shape_index_match"
+    ]
+  }
+]

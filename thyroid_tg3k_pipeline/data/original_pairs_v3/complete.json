@@ -1,0 +1,18 @@
+{
+  "policy": "original_local_positive_plus_tg3k_unused_test_v3",
+  "local_case_count": 90,
+  "local_pair_splits": {
+    "train": 7252,
+    "val": 1588,
+    "test": 1608
+  },
+  "excluded_empty_frames": 61816,
+  "added_tg3k_test_pairs": 802,
+  "final_test_pairs": 2410,
+  "manifest_sha256": {
+    "local_pairs.csv": "e525be5a0485fda9ac99d405cfe0a29657e99580e08b3dc86d391884a0ba216e",
+    "final_test.csv": "731f395b63ee9a546f97eb8b7a0781d75237d71c75517c80536a243c5b89dbd5"
+  },
+  "training_executed": false,
+  "inference_executed": false
+}

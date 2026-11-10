@@ -1,0 +1,722 @@
+[
+  {
+    "case_id": 2,
+    "split": "train",
+    "image_directory": "E:\\第一组：贾树昕+刘子琪\\WD00000002",
+    "annotation": "D:\\甲状腺通过标注\\WD00000002_gland.seg.nrrd",
+    "annotation_sha256": "8d7561f01c55ba0b46de66e446aefee21793302bc79a9051be3ca4bb9cd30cfa",
+    "frames": 655
+  },
+  {
+    "case_id": 3,
+    "split": "val",
+    "image_directory": "E:\\第一组：贾树昕+刘子琪\\WD00000003",
+    "annotation": "D:\\甲状腺通过标注\\WD00000003_gland.seg.nrrd",
+    "annotation_sha256": "5bc012d95fe0bdeec38a41bc158f2cc74b5e50de4c5f677af2e979accb3d8702",
+    "frames": 634
+  },
+  {
+    "case_id": 4,
+    "split": "train",
+    "image_directory": "E:\\第一组：贾树昕+刘子琪\\WD00000004",
+    "annotation": "D:\\甲状腺通过标注\\WD00000004_gland.seg.nrrd",
+    "annotation_sha256": "82ffda8e104cba0340faa45a5202bb97cbb34023362e96ee7ac815e36c9fe42a",
+    "frames": 904
+  },
+  {
+    "case_id": 5,
+    "split": "train",
+    "image_directory": "E:\\第一组：贾树昕+刘子琪\\WD00000005",
+    "annotation": "D:\\甲状腺通过标注\\WD00000005_gland.seg.nrrd",
+    "annotation_sha256": "890a95e27ec35ba18eb777c7bb94e7bd7cc09084eaa38e38e5e5f4b912e91d43",
+    "frames": 1272
+  },
+  {
+    "case_id": 7,
+    "split": "test",
+    "image_directory": "E:\\第一组：贾树昕+刘子琪\\WD00000007",
+    "annotation": "D:\\甲状腺通过标注\\WD00000007_gland.seg.nrrd",
+    "annotation_sha256": "612de0556b32706ea589ab1a77178bd7b39e4c18b3cc9509c17c1ec6f5f76dd8",
+    "frames": 973
+  },
+  {
+    "case_id": 9,
+    "split": "train",
+    "image_directory": "E:\\第一组：贾树昕+刘子琪\\WD00000009",
+    "annotation": "D:\\甲状腺通过标注\\WD00000009_gland.seg.nrrd",
+    "annotation_sha256": "4a864e7eddcd45af495f25f75544da62bb4744d7fab36723d8ca803cf11913fc",
+    "frames": 673
+  },
+  {
+    "case_id": 11,
+    "split": "test",
+    "image_directory": "E:\\第一组：贾树昕+刘子琪（第二批数据）\\WD00000011",
+    "annotation": "D:\\甲状腺通过标注\\WD00000011_gland.seg.nrrd",
+    "annotation_sha256": "1966a8ecb1d2c53bb1b147a199cf03a314ae4e6e7110da12794f9778f5297413",
+    "frames": 456
+  },
+  {
+    "case_id": 13,
+    "split": "val",
+    "image_directory": "E:\\第一组：贾树昕+刘子琪\\WD00000013",
+    "annotation": "D:\\甲状腺通过标注\\WD00000013_gland.seg.nrrd",
+    "annotation_sha256": "fc2df6094aebbe28ad0811999efc059a606d97722d1867e36f250e3157baa9b6",
+    "frames": 1050
+  },
+  {
+    "case_id": 14,
+    "split": "train",
+    "image_directory": "E:\\第一组：贾树昕+刘子琪\\WD00000014",
+    "annotation": "D:\\甲状腺通过标注\\WD00000014_gland.seg.nrrd",
+    "annotation_sha256": "1dc1bf20fff51743aa92b437b75be37fe76ca2a3a8f16b56a7b30ab272723f6f",
+    "frames": 474
+  },
+  {
+    "case_id": 15,
+    "split": "train",
+    "image_directory": "E:\\第二组：周骐+李紫弯\\WD00000015",
+    "annotation": "D:\\甲状腺通过标注\\WD00000015_gland.seg.nrrd",
+    "annotation_sha256": "c70b43ade9d0402b0e804964218d92056aa24b8591f2340212680b058b24cd90",
+    "frames": 774
+  },
+  {
+    "case_id": 16,
+    "split": "train",
+    "image_directory": "E:\\第二组：周骐+李紫弯\\WD00000016",
+    "annotation": "D:\\甲状腺通过标注\\WD00000016_gland.seg.nrrd",
+    "annotation_sha256": "ff5ce6574b5351e6b3c26595ce0fd732502cd675877f6e35e5280547709ff870",
+    "frames": 937
+  },
+  {
+    "case_id": 17,
+    "split": "train",
+    "image_directory": "E:\\第二组：周骐+李紫弯\\WD00000017",
+    "annotation": "D:\\甲状腺通过标注\\WD000000017_gland.seg.nrrd",
+    "annotation_sha256": "134bb20c0a22f44210220de205ed30d1f508dbfa44c0b2c9cd40f7cf8786eacb",
+    "frames": 599
+  },
+  {
+    "case_id": 18,
+    "split": "train",
+    "image_directory": "E:\\第二组：周骐+李紫弯\\WD00000018",
+    "annotation": "D:\\甲状腺通过标注\\WD00000018_gland.seg.nrrd",
+    "annotation_sha256": "498992fb7f2a933d1199dd9c26b1d16db8d0d55dc142b42f6aa139b13f9b89e7",
+    "frames": 642
+  },
+  {
+    "case_id": 21,
+    "split": "train",
+    "image_directory": "E:\\第二组：周骐+李紫弯\\WD00000021",
+    "annotation": "D:\\甲状腺通过标注\\WD00000021_gland.seg.nrrd",
+    "annotation_sha256": "7633248a7dae4a14e898ee737adf150fdeb8b1bcbbc361e224d41adb31f155cd",
+    "frames": 737
+  },
+  {
+    "case_id": 22,
+    "split": "train",
+    "image_directory": "E:\\第二组：周骐+李紫弯\\WD00000022",
+    "annotation": "D:\\甲状腺通过标注\\WD00000022_gland.seg.nrrd",
+    "annotation_sha256": "fc5ad12d91d817c170f36a09587d65565804217670124e7a36566b8954eb7495",
+    "frames": 482
+  },
+  {
+    "case_id": 23,
+    "split": "test",
+    "image_directory": "E:\\第二组：周骐+李紫弯\\WD00000023",
+    "annotation": "D:\\甲状腺通过标注\\WD00000023_gland.seg.nrrd",
+    "annotation_sha256": "128a3cdc5ff956d34cf65f51c899d6a739bda0d3483aa620af5f8e159be82cad",
+    "frames": 504
+  },
+  {
+    "case_id": 25,
+    "split": "train",
+    "image_directory": "E:\\第二组：周骐+李紫弯\\WD00000025",
+    "annotation": "D:\\甲状腺通过标注\\WD00000025_gland.seg.nrrd",
+    "annotation_sha256": "641d7e00f03648522a0eb872b6181640ca46fc316d7aa3354214f721799b7afa",
+    "frames": 905
+  },
+  {
+    "case_id": 26,
+    "split": "train",
+    "image_directory": "E:\\第二组：周骐+李紫弯\\WD00000026",
+    "annotation": "D:\\甲状腺通过标注\\WD00000026_gland.seg.nrrd",
+    "annotation_sha256": "a3f6f5121689b7103532e6ca354324ab186aed73a7c742279cbef44fbc51e775",
+    "frames": 451
+  },
+  {
+    "case_id": 27,
+    "split": "val",
+    "image_directory": "E:\\第三组：乔俨楠+张佳慧\\WD00000027",
+    "annotation": "D:\\甲状腺通过标注\\WD00000027_gland.seg.nrrd",
+    "annotation_sha256": "395b4cd9abb3835891ee0fa8fa4e6e3517643770811151bf56817d90102b93b2",
+    "frames": 640
+  },
+  {
+    "case_id": 29,
+    "split": "test",
+    "image_directory": "E:\\第三组：乔俨楠+张佳慧\\WD00000029",
+    "annotation": "D:\\甲状腺通过标注\\WD00000029_gland.seg.nrrd",
+    "annotation_sha256": "bc22635de7beffefb6fc900bcbc955d24226cd6ed8a4b4cfbfc5d459ba3181b8",
+    "frames": 728
+  },
+  {
+    "case_id": 30,
+    "split": "val",
+    "image_directory": "E:\\第三组：乔俨楠+张佳慧\\WD00000030",
+    "annotation": "D:\\甲状腺通过标注\\WD00000030_gland.seg.nrrd",
+    "annotation_sha256": "2bd3bc38a4c1e791e7c42672ff17552ba65b68db683c2ec1ba0ee7613e1c60ca",
+    "frames": 922
+  },
+  {
+    "case_id": 33,
+    "split": "train",
+    "image_directory": "E:\\第三组：乔俨楠+张佳慧\\WD00000033",
+    "annotation": "D:\\甲状腺通过标注\\WD00000033_gland.seg.nrrd",
+    "annotation_sha256": "bb9d6ddbc342d94758bfc5e3ed5becc57a7c47b634aac1266b4a0a498aeb66cb",
+    "frames": 679
+  },
+  {
+    "case_id": 35,
+    "split": "train",
+    "image_directory": "E:\\第三组：乔俨楠+张佳慧\\WD00000035",
+    "annotation": "D:\\甲状腺通过标注\\WD00000035_gland.seg.nrrd",
+    "annotation_sha256": "5cc979edc80af9d41f447369b00393fa57f530fcbd5f24187645ea1f75ee64de",
+    "frames": 786
+  },
+  {
+    "case_id": 39,
+    "split": "test",
+    "image_directory": "E:\\第三组：乔俨楠+张佳慧\\WD00000039",
+    "annotation": "D:\\甲状腺通过标注\\WD00000039_gland.seg.nrrd",
+    "annotation_sha256": "e14632c00c7a09c326631c99144ba0b115c7f6162cfa981567507f364b52f80a",
+    "frames": 834
+  },
+  {
+    "case_id": 44,
+    "split": "train",
+    "image_directory": "E:\\第四组：黄琬淋+侯铮\\WD00000044",
+    "annotation": "D:\\甲状腺通过标注\\WD00000044_gland.seg.nrrd",
+    "annotation_sha256": "d0ac208d28540ae9a05813aa334bcd2932c0d9c3510b41cd0f610f6a772a2e4e",
+    "frames": 1220
+  },
+  {
+    "case_id": 45,
+    "split": "train",
+    "image_directory": "E:\\第四组：黄琬淋+侯铮\\WD00000045",
+    "annotation": "D:\\甲状腺通过标注\\WD00000045_gland.seg.nrrd",
+    "annotation_sha256": "6c82687e4a5be74836a5910582dd05097ef7c8575c6116c9824733a5f5f62d5f",
+    "frames": 701
+  },
+  {
+    "case_id": 46,
+    "split": "train",
+    "image_directory": "E:\\第四组：黄琬淋+侯铮\\WD00000046",
+    "annotation": "D:\\甲状腺通过标注\\WD00000046_gland.seg.nrrd",
+    "annotation_sha256": "e548e623376dc9af76632953b6f4342b8f9222bf4e5b53b92834253e3801942e",
+    "frames": 676
+  },
+  {
+    "case_id": 47,
+    "split": "test",
+    "image_directory": "E:\\第四组：黄琬淋+侯铮\\WD00000047",
+    "annotation": "D:\\甲状腺通过标注\\WD00000047_gland.seg.nrrd",
+    "annotation_sha256": "62142c7d3bf4bbb6d08f10e49c8a6c574311df29317d51646eb4be9e11f53355",
+    "frames": 634
+  },
+  {
+    "case_id": 48,
+    "split": "val",
+    "image_directory": "E:\\第四组：黄琬淋+侯铮\\WD00000048",
+    "annotation": "D:\\甲状腺通过标注\\WD00000048_gland.seg.nrrd",
+    "annotation_sha256": "dced9ff5ce27e5d42023de63b0dc790e8927c716048e819bdfcd0cdb7fe7cc6b",
+    "frames": 1022
+  },
+  {
+    "case_id": 49,
+    "split": "train",
+    "image_directory": "E:\\第四组：黄琬淋+侯铮\\WD00000049",
+    "annotation": "D:\\甲状腺通过标注\\WD00000049_gland.seg.nrrd",
+    "annotation_sha256": "93959e6ff1c059315acdca3a87bee190a520fef2e2ff782145a9ff399e196c88",
+    "frames": 830
+  },
+  {
+    "case_id": 50,
+    "split": "train",
+    "image_directory": "E:\\第四组：黄琬淋+侯铮\\WD00000050",
+    "annotation": "D:\\甲状腺通过标注\\WD00000050_gland.seg.nrrd",
+    "annotation_sha256": "1f56bef1cbacb558fbf0a67231688cc582e177a0aaecf457f2e2e16302433650",
+    "frames": 784
+  },
+  {
+    "case_id": 51,
+    "split": "val",
+    "image_directory": "E:\\第四组：黄琬淋+侯铮\\WD00000051",
+    "annotation": "D:\\甲状腺通过标注\\WD00000051_gland.seg.nrrd",
+    "annotation_sha256": "ac1a21c8ae8f19126cfea0077a1c6fd8e5d9e3e8eb4cf25d3ec3af38f36e9876",
+    "frames": 624
+  },
+  {
+    "case_id": 52,
+    "split": "train",
+    "image_directory": "E:\\第四组：黄琬淋+侯铮\\WD00000052",
+    "annotation": "D:\\甲状腺通过标注\\WD00000052_gland.seg.nrrd",
+    "annotation_sha256": "e2deff45cac33b29890927ec22fd0c384a9600f81c8b9e4f876d286a45e97297",
+    "frames": 809
+  },
+  {
+    "case_id": 53,
+    "split": "test",
+    "image_directory": "E:\\第五组：冯明玉+颜子寒\\WD00000053",
+    "annotation": "D:\\甲状腺通过标注\\WD00000053_gland.seg.nrrd",
+    "annotation_sha256": "2ecc82261f8e79ec985d0eea84fde7278ff25f0da49968f243e185bc41fbe641",
+    "frames": 669
+  },
+  {
+    "case_id": 54,
+    "split": "train",
+    "image_directory": "E:\\第五组：冯明玉+颜子寒\\WD00000054",
+    "annotation": "D:\\甲状腺通过标注\\WD00000054_gland.seg.nrrd",
+    "annotation_sha256": "abe663a60bd3c53ebd319a33221490a5951a0f0a18ce97b74b5cdaeb550eacd4",
+    "frames": 909
+  },
+  {
+    "case_id": 55,
+    "split": "train",
+    "image_directory": "E:\\第五组：冯明玉+颜子寒\\WD00000055",
+    "annotation": "D:\\甲状腺通过标注\\WD00000055_gland.seg.nrrd",
+    "annotation_sha256": "22dc06242d1be5e2bda3bc2b19010b5cf250ce40977ab81591b651d0d68f3a2c",
+    "frames": 658
+  },
+  {
+    "case_id": 56,
+    "split": "train",
+    "image_directory": "E:\\第五组：冯明玉+颜子寒\\WD00000056",
+    "annotation": "D:\\甲状腺通过标注\\WD00000056_gland.seg.nrrd",
+    "annotation_sha256": "5a48148515fea629c26f0bba846ef24e38751a7283235b4c928b16ff496553d2",
+    "frames": 836
+  },
+  {
+    "case_id": 57,
+    "split": "train",
+    "image_directory": "E:\\第五组：冯明玉+颜子寒\\WD00000057",
+    "annotation": "D:\\甲状腺通过标注\\WD00000057_gland.seg.nrrd",
+    "annotation_sha256": "6c55224f866297fd5a6843e078b5993e48170f20684c1670a69582aa237f768e",
+    "frames": 694
+  },
+  {
+    "case_id": 58,
+    "split": "train",
+    "image_directory": "E:\\第五组：冯明玉+颜子寒\\WD00000058",
+    "annotation": "D:\\甲状腺通过标注\\WD00000058_gland.seg.nrrd",
+    "annotation_sha256": "1d4377c54fffc3eedda2c3b85be0290ea7da58f6ef8226613362c87e55e59515",
+    "frames": 1316
+  },
+  {
+    "case_id": 59,
+    "split": "val",
+    "image_directory": "E:\\第五组：冯明玉+颜子寒\\WD00000059",
+    "annotation": "D:\\甲状腺通过标注\\WD00000059_gland.seg.nrrd",
+    "annotation_sha256": "8af1342f1fd4120a5d2defcd1f238ef0bf9118fd701e61ca4d5fba2e581d520f",
+    "frames": 704
+  },
+  {
+    "case_id": 60,
+    "split": "test",
+    "image_directory": "E:\\第五组：冯明玉+颜子寒\\WD00000060",
+    "annotation": "D:\\甲状腺通过标注\\WD00000060_gland.seg.nrrd",
+    "annotation_sha256": "57adc7bb237501be5798546899c51d5b16fbd063d0461ca5b7887be7cd9cfe93",
+    "frames": 572
+  },
+  {
+    "case_id": 61,
+    "split": "train",
+    "image_directory": "E:\\第五组：冯明玉+颜子寒\\WD00000061",
+    "annotation": "D:\\甲状腺通过标注\\WD00000061_gland.seg.nrrd",
+    "annotation_sha256": "73dc343ed1485cc35652545347f914f671f347be3d465491842b4226e2fd73c6",
+    "frames": 697
+  },
+  {
+    "case_id": 62,
+    "split": "train",
+    "image_directory": "E:\\第五组：冯明玉+颜子寒\\WD00000062",
+    "annotation": "D:\\甲状腺通过标注\\WD00000062_gland.seg.nrrd",
+    "annotation_sha256": "19be0a5e060b3ac3cd5b1fc4694e5dcf6f9d70f873ac87615c24795c05a1aa89",
+    "frames": 708
+  },
+  {
+    "case_id": 63,
+    "split": "train",
+    "image_directory": "E:\\第一组：贾树昕+刘子琪（第二批数据）\\WD00000063",
+    "annotation": "D:\\甲状腺通过标注\\WD00000063_gland.seg.nrrd",
+    "annotation_sha256": "16a0fcf46191d4e217b0dc64750b0bce584045a1c6be61cbf689da17fa67e0c3",
+    "frames": 806
+  },
+  {
+    "case_id": 64,
+    "split": "train",
+    "image_directory": "E:\\第一组：贾树昕+刘子琪（第二批数据）\\WD00000064",
+    "annotation": "D:\\甲状腺通过标注\\WD00000064_gland.seg.nrrd",
+    "annotation_sha256": "414027a352fb27e12e303217cb2d260e0a0da846dc01a32eef0fb41256cb84f8",
+    "frames": 1135
+  },
+  {
+    "case_id": 65,
+    "split": "test",
+    "image_directory": "E:\\第一组：贾树昕+刘子琪（第二批数据）\\WD00000065",
+    "annotation": "D:\\甲状腺通过标注\\WD00000065_gland.seg.nrrd",
+    "annotation_sha256": "4b7dc19684c063711721361b7ee538115804a1d5d78fb0e8abf05e61015b652c",
+    "frames": 774
+  },
+  {
+    "case_id": 66,
+    "split": "train",
+    "image_directory": "E:\\第一组：贾树昕+刘子琪（第二批数据）\\WD00000066",
+    "annotation": "D:\\甲状腺通过标注\\WD00000066_gland.seg.nrrd",
+    "annotation_sha256": "b3489f536df2189b2652fbb8e36f8981a0d59359c1933a54d02541fe1dc8f857",
+    "frames": 803
+  },
+  {
+    "case_id": 67,
+    "split": "test",
+    "image_directory": "E:\\第一组：贾树昕+刘子琪（第二批数据）\\WD00000067",
+    "annotation": "D:\\甲状腺通过标注\\WD00000067_gland.seg.nrrd",
+    "annotation_sha256": "777542c899f53e03fe36616e986c15d000bef2d56a0c91a27b8960d90ef4ef21",
+    "frames": 719
+  },
+  {
+    "case_id": 68,
+    "split": "train",
+    "image_directory": "E:\\第一组：贾树昕+刘子琪（第二批数据）\\WD00000068",
+    "annotation": "D:\\甲状腺通过标注\\WD00000068_gland.seg.nrrd",
+    "annotation_sha256": "0439f86907e57084f03ee8ca289483ed57a0382414103b5039efcb02e72cb628",
+    "frames": 999
+  },
+  {
+    "case_id": 69,
+    "split": "train",
+    "image_directory": "E:\\第一组：贾树昕+刘子琪（第二批数据）\\WD00000069",
+    "annotation": "D:\\甲状腺通过标注\\WD00000069_gland.seg.nrrd",
+    "annotation_sha256": "96d778db8511044baaa3d833355878e331c2241945948e188d55534620f47139",
+    "frames": 889
+  },
+  {
+    "case_id": 70,
+    "split": "train",
+    "image_directory": "E:\\第一组：贾树昕+刘子琪（第二批数据）\\WD00000070",
+    "annotation": "D:\\甲状腺通过标注\\WD00000070_gland.seg.nrrd",
+    "annotation_sha256": "64d7ceb7486f370665f69a6c2d2de04d9e8f36aaa1625bef2f62b6d64bf5e9b6",
+    "frames": 723
+  },
+  {
+    "case_id": 71,
+    "split": "train",
+    "image_directory": "E:\\第一组：贾树昕+刘子琪（第二批数据）\\WD00000071",
+    "annotation": "D:\\甲状腺通过标注\\WD00000071_gland.seg.nrrd",
+    "annotation_sha256": "34e89c34b647e8d38a53277be4c858ac08a48bc6508a6aae2b3494ab97737491",
+    "frames": 1084
+  },
+  {
+    "case_id": 74,
+    "split": "test",
+    "image_directory": "E:\\第二组：周   骐+李紫弯（第二批数据）\\WD00000074",
+    "annotation": "D:\\甲状腺通过标注\\WD00000074_gland.seg.nrrd",
+    "annotation_sha256": "8057035b176ff3da6939561033dbc6614d81811a37027e267c09cb1588224d88",
+    "frames": 785
+  },
+  {
+    "case_id": 75,
+    "split": "train",
+    "image_directory": "E:\\第二组：周   骐+李紫弯（第二批数据）\\WD00000075",
+    "annotation": "D:\\甲状腺通过标注\\WD00000075_gland.seg.nrrd",
+    "annotation_sha256": "b6bfcfb5235c7450e899b633693f469aff6e5d69f6cb14b861a6163ffea56ee3",
+    "frames": 834
+  },
+  {
+    "case_id": 76,
+    "split": "test",
+    "image_directory": "E:\\第二组：周   骐+李紫弯（第二批数据）\\WD00000076",
+    "annotation": "D:\\甲状腺通过标注\\WD00000076_gland.seg.nrrd",
+    "annotation_sha256": "46ee02e876061b5cd8481e11eea44df1ac3fbd4a0918f50b7d28ec883489dadf",
+    "frames": 1100
+  },
+  {
+    "case_id": 77,
+    "split": "train",
+    "image_directory": "E:\\第二组：周   骐+李紫弯（第二批数据）\\WD00000077",
+    "annotation": "D:\\甲状腺通过标注\\WD00000077_gland.seg.nrrd",
+    "annotation_sha256": "c866a066d2ef648f6ca5ac83edb8f650ff1ad9492f49328a351b07cc3cc4f749",
+    "frames": 495
+  },
+  {
+    "case_id": 78,
+    "split": "train",
+    "image_directory": "E:\\第二组：周   骐+李紫弯（第二批数据）\\WD00000078",
+    "annotation": "D:\\甲状腺通过标注\\WD00000078_gland.seg.nrrd",
+    "annotation_sha256": "5f0cd2720885291cc13de3e5ee278d2693385bfd33f99f1a46b56dfeea996fc9",
+    "frames": 561
+  },
+  {
+    "case_id": 79,
+    "split": "val",
+    "image_directory": "E:\\第二组：周   骐+李紫弯（第二批数据）\\WD00000079",
+    "annotation": "D:\\甲状腺通过标注\\WD00000079_gland.seg.nrrd",
+    "annotation_sha256": "d99ecf0f43d289dabcbbd849f84652dc04f2e5fa2885024f8fa83e62690791b1",
+    "frames": 891
+  },
+  {
+    "case_id": 80,
+    "split": "train",
+    "image_directory": "E:\\第二组：周   骐+李紫弯（第二批数据）\\WD00000080",
+    "annotation": "D:\\甲状腺通过标注\\WD00000080_gland.seg.nrrd",
+    "annotation_sha256": "b096cfa4563393c90da3bc476c2f3f412aecf63493bdaa2fe68b4b32827859ed",
+    "frames": 1313
+  },
+  {
+    "case_id": 81,
+    "split": "train",
+    "image_directory": "E:\\第二组：周   骐+李紫弯（第二批数据）\\WD00000081",
+    "annotation": "D:\\甲状腺通过标注\\WD00000081_gland.seg.nrrd",
+    "annotation_sha256": "b8bdc55b6293ca459dd9542c9ef347555b805a9e4089de327c9f5042638f458c",
+    "frames": 1006
+  },
+  {
+    "case_id": 82,
+    "split": "train",
+    "image_directory": "E:\\第二组：周   骐+李紫弯（第二批数据）\\WD00000082",
+    "annotation": "D:\\甲状腺通过标注\\WD00000082_gland.seg.nrrd",
+    "annotation_sha256": "60909cff8c5dcf67efd21c5513dcbf01e75709f9d633f68225d611588e9366de",
+    "frames": 541
+  },
+  {
+    "case_id": 83,
+    "split": "train",
+    "image_directory": "E:\\第二组：周   骐+李紫弯（第二批数据）\\WD00000083",
+    "annotation": "D:\\甲状腺通过标注\\WD00000083_gland.seg.nrrd",
+    "annotation_sha256": "bd0a0b08981d7e546bb735174fa13d8e6f9e3d2ac33e5df7ef3d924d8ad3d740",
+    "frames": 936
+  },
+  {
+    "case_id": 84,
+    "split": "train",
+    "image_directory": "E:\\第三组：乔俨楠+张佳慧（第二批数据）\\WD00000084",
+    "annotation": "D:\\甲状腺通过标注\\WD00000084_gland.seg.nrrd",
+    "annotation_sha256": "f190881dc588e82820458688b0b70305ec90fc194fe64b35d78e69deab778193",
+    "frames": 697
+  },
+  {
+    "case_id": 87,
+    "split": "train",
+    "image_directory": "E:\\第三组：乔俨楠+张佳慧（第二批数据）\\WD00000087",
+    "annotation": "D:\\甲状腺通过标注\\WD00000087_gland.seg.nrrd",
+    "annotation_sha256": "4d43ac0a9b43784c8aac808c6d43cb22fb2aea22b7504bb96bbd00100f5a944d",
+    "frames": 391
+  },
+  {
+    "case_id": 88,
+    "split": "train",
+    "image_directory": "E:\\第三组：乔俨楠+张佳慧（第二批数据）\\WD00000088",
+    "annotation": "D:\\甲状腺通过标注\\WD00000088_gland.seg.nrrd",
+    "annotation_sha256": "39a28463cb24b3d7024d54a16f5db09ac61c6507145f211ab67987dfd35db15c",
+    "frames": 775
+  },
+  {
+    "case_id": 89,
+    "split": "test",
+    "image_directory": "E:\\第三组：乔俨楠+张佳慧（第二批数据）\\WD00000089",
+    "annotation": "D:\\甲状腺通过标注\\WD00000089_gland.seg.nrrd",
+    "annotation_sha256": "06f33b5f464581619ad9a0fbc6b539f97351ed361fa9d4dfd01af833d1f555ed",
+    "frames": 765
+  },
+  {
+    "case_id": 90,
+    "split": "train",
+    "image_directory": "E:\\第三组：乔俨楠+张佳慧（第二批数据）\\WD00000090",
+    "annotation": "D:\\甲状腺通过标注\\WD00000090_gland.seg.nrrd",
+    "annotation_sha256": "391c85a25f2c1af13a1be129a7c2aaa3487f6c0a83bd5f21aa567a8f1693a52d",
+    "frames": 681
+  },
+  {
+    "case_id": 91,
+    "split": "train",
+    "image_directory": "E:\\第三组：乔俨楠+张佳慧（第二批数据）\\WD00000091",
+    "annotation": "D:\\甲状腺通过标注\\WD00000091_gland.seg.nrrd",
+    "annotation_sha256": "d62c18c124d115196e266b05c7f6c98670c38ba760b8c51595bef3be3bc4f4a7",
+    "frames": 566
+  },
+  {
+    "case_id": 92,
+    "split": "train",
+    "image_directory": "E:\\第三组：乔俨楠+张佳慧（第二批数据）\\WD00000092",
+    "annotation": "D:\\甲状腺通过标注\\WD00000092_gland.seg.nrrd",
+    "annotation_sha256": "648424b73d46fa02a2b8c169ea78caef712c4c84b6ed03751ea5fcab99e518c1",
+    "frames": 1257
+  },
+  {
+    "case_id": 93,
+    "split": "train",
+    "image_directory": "E:\\第三组：乔俨楠+张佳慧（第二批数据）\\WD00000093",
+    "annotation": "D:\\甲状腺通过标注\\WD00000093_gland.seg.nrrd",
+    "annotation_sha256": "4f56c5e448e25400cbc0be8256f920c125158d52741e62ea0988a244327e49c4",
+    "frames": 2917
+  },
+  {
+    "case_id": 94,
+    "split": "train",
+    "image_directory": "E:\\第三组：乔俨楠+张佳慧（第二批数据）\\WD00000094",
+    "annotation": "D:\\甲状腺通过标注\\WD00000094_gland.seg.nrrd",
+    "annotation_sha256": "f09a6df6e5cbff7c6c058dda9ce4941e4851190af00a871a337449c20380497f",
+    "frames": 941
+  },
+  {
+    "case_id": 95,
+    "split": "val",
+    "image_directory": "E:\\第三组：乔俨楠+张佳慧（第二批数据）\\WD00000095",
+    "annotation": "D:\\甲状腺通过标注\\WD00000095_gland.seg.nrrd",
+    "annotation_sha256": "0fc0e4e1eee751fad7e8c425f7180d6d828a29967bbd327bed2c8037f5922786",
+    "frames": 535
+  },
+  {
+    "case_id": 96,
+    "split": "val",
+    "image_directory": "E:\\第四组：黄琬淋+侯铮（第二批数据）\\WD00000096",
+    "annotation": "D:\\甲状腺通过标注\\WD00000096_gland.seg.nrrd",
+    "annotation_sha256": "35f7d85f2e1c84e7cc781951c28e17483b65d61cd2d51d74827e45c1381b7dbb",
+    "frames": 711
+  },
+  {
+    "case_id": 97,
+    "split": "train",
+    "image_directory": "E:\\第四组：黄琬淋+侯铮（第二批数据）\\WD00000097",
+    "annotation": "D:\\甲状腺通过标注\\WD00000097_gland.seg.nrrd",
+    "annotation_sha256": "cb3843e668465eed47b896ab0279292596a346ead6a9858575572529e7217a51",
+    "frames": 570
+  },
+  {
+    "case_id": 100,
+    "split": "train",
+    "image_directory": "E:\\第四组：黄琬淋+侯铮（第二批数据）\\WD00000100",
+    "annotation": "D:\\甲状腺通过标注\\WD00000100_gland.seg.nrrd",
+    "annotation_sha256": "fdeb98f562c4be111999bb5ef8c4b1c15438e4cad8cd1296956e284a875a6d89",
+    "frames": 711
+  },
+  {
+    "case_id": 101,
+    "split": "train",
+    "image_directory": "E:\\第四组：黄琬淋+侯铮（第二批数据）\\WD00000101",
+    "annotation": "D:\\甲状腺通过标注\\WD00000101_gland.seg.nrrd",
+    "annotation_sha256": "dda8db98db9cd3ccfc70f6cca8b1621c3c9cc5f067d681081ddc3971fed9d812",
+    "frames": 649
+  },
+  {
+    "case_id": 102,
+    "split": "train",
+    "image_directory": "E:\\第四组：黄琬淋+侯铮（第二批数据）\\WD00000102",
+    "annotation": "D:\\甲状腺通过标注\\WD00000102_gland.seg.nrrd",
+    "annotation_sha256": "01050e969dd9e16b83b94906f8d1685b7fead8cc5d6631c74c45b5b3533d4314",
+    "frames": 661
+  },
+  {
+    "case_id": 103,
+    "split": "test",
+    "image_directory": "E:\\第四组：黄琬淋+侯铮（第二批数据）\\WD00000103",
+    "annotation": "D:\\甲状腺通过标注\\WD00000103_gland.seg.nrrd",
+    "annotation_sha256": "6bb99664d10c53188c89a7e3a39fa8d038779d2949536e2d6c83c0c5be34eeac",
+    "frames": 697
+  },
+  {
+    "case_id": 104,
+    "split": "train",
+    "image_directory": "E:\\第四组：黄琬淋+侯铮（第二批数据）\\WD00000104",
+    "annotation": "D:\\甲状腺通过标注\\WD00000104_gland.seg.nrrd",
+    "annotation_sha256": "29ffd17196270e285a7013ab5b1b73e2fedb9b03f97b018f7e858a8d27a7d0c2",
+    "frames": 993
+  },
+  {
+    "case_id": 105,
+    "split": "train",
+    "image_directory": "E:\\第四组：黄琬淋+侯铮（第二批数据）\\WD00000105",
+    "annotation": "D:\\甲状腺通过标注\\WD00000105_gland.seg.nrrd",
+    "annotation_sha256": "6d9a38fb1b5b57b4223499d9abac309f0b1d99821151f603cee003fdfa52f24c",
+    "frames": 717
+  },
+  {
+    "case_id": 106,
+    "split": "train",
+    "image_directory": "E:\\第五组：冯明玉+颜子寒（第二批数据）\\WD00000106",
+    "annotation": "D:\\甲状腺通过标注\\WD00000106_gland.seg.nrrd",
+    "annotation_sha256": "7463b21d7cbf81f9f69a699b895f1022652c18b82948d15013c754b1cb742744",
+    "frames": 839
+  },
+  {
+    "case_id": 107,
+    "split": "train",
+    "image_directory": "E:\\第五组：冯明玉+颜子寒（第二批数据）\\WD00000107",
+    "annotation": "D:\\甲状腺通过标注\\WD00000107_gland.seg.nrrd",
+    "annotation_sha256": "47197e82d72928bc2efc9cb3d4f5f5c9ed3776b3b8034db4b08968c1cef5d0da",
+    "frames": 568
+  },
+  {
+    "case_id": 108,
+    "split": "train",
+    "image_directory": "E:\\第五组：冯明玉+颜子寒（第二批数据）\\WD00000108",
+    "annotation": "D:\\甲状腺通过标注\\WD00000108_gland.seg.nrrd",
+    "annotation_sha256": "e81bc4d95270b01c87664a233d8f5c7e7e91dbb527b97484212cff76748f3291",
+    "frames": 729
+  },
+  {
+    "case_id": 109,
+    "split": "val",
+    "image_directory": "E:\\第五组：冯明玉+颜子寒（第二批数据）\\WD00000109",
+    "annotation": "D:\\甲状腺通过标注\\WD00000109_gland.seg.nrrd",
+    "annotation_sha256": "3664ff7992bc6f594eabdb4bc01d29aa4bc952b49458768dc2444289b7e3583f",
+    "frames": 1844
+  },
+  {
+    "case_id": 110,
+    "split": "val",
+    "image_directory": "E:\\第五组：冯明玉+颜子寒（第二批数据）\\WD00000110",
+    "annotation": "D:\\甲状腺通过标注\\WD00000110_gland.seg.nrrd",
+    "annotation_sha256": "80d25700cc577698b88c7ab77dff998b84b9f556d4d767016fba6f78cf1e71f2",
+    "frames": 983
+  },
+  {
+    "case_id": 111,
+    "split": "train",
+    "image_directory": "E:\\第五组：冯明玉+颜子寒（第二批数据）\\WD00000111",
+    "annotation": "D:\\甲状腺通过标注\\WD00000111_gland.seg.nrrd",
+    "annotation_sha256": "93b2234844f4e3823fb9b9b70a538ea0cbeaf30322151b1c3474add040083369",
+    "frames": 608
+  },
+  {
+    "case_id": 112,
+    "split": "val",
+    "image_directory": "E:\\第五组：冯明玉+颜子寒（第二批数据）\\WD00000112",
+    "annotation": "D:\\甲状腺通过标注\\WD00000112_gland.seg.nrrd",
+    "annotation_sha256": "aec1fd58c06eb189bc0960e6341f260b97b262abd46b50da756652ebda443fae",
+    "frames": 662
+  },
+  {
+    "case_id": 113,
+    "split": "val",
+    "image_directory": "E:\\第五组：冯明玉+颜子寒（第二批数据）\\WD00000113",
+    "annotation": "D:\\甲状腺通过标注\\WD00000113_gland.seg.nrrd",
+    "annotation_sha256": "d22509a7d805e682e60545b238e48db5a6214c8e53597921d7fae654f853fc3b",
+    "frames": 360
+  },
+  {
+    "case_id": 114,
+    "split": "train",
+    "image_directory": "E:\\第五组：冯明玉+颜子寒（第二批数据）\\WD00000114",
+    "annotation": "D:\\甲状腺通过标注\\WD00000114_gland.seg.nrrd",
+    "annotation_sha256": "56f5e877f04c5ac9190be7c549543e314c2d7e16b464677e95bd06e3b52e169c",
+    "frames": 407
+  },
+  {
+    "case_id": 115,
+    "split": "train",
+    "image_directory": "E:\\第五组：冯明玉+颜子寒（第二批数据）\\WD00000115",
+    "annotation": "D:\\甲状腺通过标注\\WD00000115_gland.seg.nrrd",
+    "annotation_sha256": "cd56cc85168810d64959f146a42310bd01a6d72e71c4afdffc26d02b47f2b2ed",
+    "frames": 862
+  }
+]

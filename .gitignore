@@ -1,0 +1,28 @@
+# Python caches and virtualenvs
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Generated runs and reconstruction outputs
+**/outputs/
+thyroid_tg3k_pipeline/comparisons/
+thyroid_tg3k_pipeline/runs/
+thyroid_tg3k_pipeline/evaluations/
+
+# Packaged server build (~1 GB tar.gz; GitHub rejects files over 100 MB)
+thyroid_tg3k_pipeline/dist/
+
+# Model checkpoints (includes files over GitHub's 100 MB file limit)
+thyroid_tg3k_pipeline/downloaded_weights/
+
+# Image datasets. Tables, splits, and configs stay tracked.
+thyroid_tg3k_pipeline/data/**/*.png
+URS02_D1/DUS/

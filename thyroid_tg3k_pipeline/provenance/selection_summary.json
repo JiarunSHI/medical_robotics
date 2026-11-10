@@ -1,0 +1,20 @@
+{
+  "negative_frames_selected": 0,
+  "candidate_frames": 2929,
+  "cases": 93,
+  "excluded_case_targets": 19,
+  "review_frames": 1448,
+  "counts": {
+    "gland": {
+      "train": 1008,
+      "val": 218,
+      "test": 226
+    },
+    "cs": {
+      "train": 1044,
+      "val": 222,
+      "test": 211
+    }
+  },
+  "status": "provisional positives; review needed before final training and evaluation"
+}

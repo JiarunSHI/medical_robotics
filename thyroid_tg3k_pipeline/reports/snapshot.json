@@ -1,0 +1,10 @@
+{
+  "case_count": 90,
+  "splits": {
+    "train": 62,
+    "val": 14,
+    "test": 14
+  },
+  "frames": 72264,
+  "policy": "Exact gland case whitelist from previous manifest; all raw frames in these cases"
+}

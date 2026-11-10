@@ -1,0 +1,5 @@
+# Validated with Python 3.12.11. Install a matching CUDA torch build if needed.
+torch==2.7.1
+torchvision==0.22.1
+numpy==2.4.4
+Pillow==11.0.0

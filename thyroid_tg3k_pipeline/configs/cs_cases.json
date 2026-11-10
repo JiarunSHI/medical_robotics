@@ -1,0 +1,730 @@
+[
+  {
+    "case_id": 2,
+    "split": "train",
+    "image_directory": "E:\\第一组：贾树昕+刘子琪\\WD00000002",
+    "annotation": "D:\\甲状腺通过标注\\WD00000002_cs.seg.nrrd",
+    "annotation_sha256": "5c86c9649b9e856747567e2de6fb45657a92a6ca3d59f07ce96fb602482250e3",
+    "frames": 655
+  },
+  {
+    "case_id": 3,
+    "split": "val",
+    "image_directory": "E:\\第一组：贾树昕+刘子琪\\WD00000003",
+    "annotation": "D:\\甲状腺通过标注\\WD00000003_cs.seg.nrrd",
+    "annotation_sha256": "e9b9932879782741f218e989b201216502700b0b199c2079c4d19d09bc55250e",
+    "frames": 634
+  },
+  {
+    "case_id": 4,
+    "split": "train",
+    "image_directory": "E:\\第一组：贾树昕+刘子琪\\WD00000004",
+    "annotation": "D:\\甲状腺通过标注\\WD00000004_cs.seg.nrrd",
+    "annotation_sha256": "058e2a90daaeffef94f3f0ee1c20866006e09e5ad8a9957d312f7b12918938d2",
+    "frames": 904
+  },
+  {
+    "case_id": 5,
+    "split": "train",
+    "image_directory": "E:\\第一组：贾树昕+刘子琪\\WD00000005",
+    "annotation": "D:\\甲状腺通过标注\\WD00000005_cs.seg.nrrd",
+    "annotation_sha256": "8db74310eae8d25f2e9e280014e89aebaa13700d3443b51f48a0b8650854c287",
+    "frames": 1272
+  },
+  {
+    "case_id": 7,
+    "split": "test",
+    "image_directory": "E:\\第一组：贾树昕+刘子琪\\WD00000007",
+    "annotation": "D:\\甲状腺通过标注\\WD00000007_cs.seg.nrrd",
+    "annotation_sha256": "a685bf92073c704d3ab0435c721f3e98dc6565042aae595b27b46a0ccef870d4",
+    "frames": 973
+  },
+  {
+    "case_id": 9,
+    "split": "train",
+    "image_directory": "E:\\第一组：贾树昕+刘子琪\\WD00000009",
+    "annotation": "D:\\甲状腺通过标注\\WD00000009_cs.seg.nrrd",
+    "annotation_sha256": "2b1298cbc81ed211ee07fa5af910692acc81f6a7288f8667569d4419506c00ca",
+    "frames": 673
+  },
+  {
+    "case_id": 11,
+    "split": "test",
+    "image_directory": "E:\\第一组：贾树昕+刘子琪（第二批数据）\\WD00000011",
+    "annotation": "D:\\甲状腺通过标注\\WD00000011_cs.seg.nrrd",
+    "annotation_sha256": "dca8ddd9b8dd29afead29681384a5e069a131238c54f197605836774f7020552",
+    "frames": 456
+  },
+  {
+    "case_id": 13,
+    "split": "val",
+    "image_directory": "E:\\第一组：贾树昕+刘子琪\\WD00000013",
+    "annotation": "D:\\甲状腺通过标注\\WD00000013_cs.seg.nrrd",
+    "annotation_sha256": "d4fdc1967787858810dd91c8a5beea7137ba1dfdaa472d31cf4ca1afca032eb6",
+    "frames": 1050
+  },
+  {
+    "case_id": 14,
+    "split": "train",
+    "image_directory": "E:\\第一组：贾树昕+刘子琪\\WD00000014",
+    "annotation": "D:\\甲状腺通过标注\\WD00000014_cs.seg.nrrd",
+    "annotation_sha256": "609463f418d860ed37669f05b9072890883e7f365bc0204da37c9ef7f673f495",
+    "frames": 474
+  },
+  {
+    "case_id": 15,
+    "split": "train",
+    "image_directory": "E:\\第二组：周骐+李紫弯\\WD00000015",
+    "annotation": "D:\\甲状腺通过标注\\WD00000015_cs.seg.nrrd",
+    "annotation_sha256": "b9944faad1e2ac4410b5fa1d42481b1752743628ff7d2f7cbf5283c23be4bdce",
+    "frames": 774
+  },
+  {
+    "case_id": 16,
+    "split": "train",
+    "image_directory": "E:\\第二组：周骐+李紫弯\\WD00000016",
+    "annotation": "D:\\甲状腺通过标注\\WD00000016_cs.seg.nrrd",
+    "annotation_sha256": "f5f6041fe19551ad8b3105f4b66fbf810bd01d42a92e6b75ff1d0d486a5acbd6",
+    "frames": 937
+  },
+  {
+    "case_id": 17,
+    "split": "train",
+    "image_directory": "E:\\第二组：周骐+李紫弯\\WD00000017",
+    "annotation": "D:\\甲状腺通过标注\\WD000000017_cs.seg.nrrd",
+    "annotation_sha256": "dafd223249f33a94c56ba97edcbc604ea9558c3a91792af51c7687210e29403b",
+    "frames": 599
+  },
+  {
+    "case_id": 18,
+    "split": "train",
+    "image_directory": "E:\\第二组：周骐+李紫弯\\WD00000018",
+    "annotation": "D:\\甲状腺通过标注\\WD00000018_cs.seg.nrrd",
+    "annotation_sha256": "04ed8c1dcf983e29da227b4a723112bbbc1e64ab3b6e48567faf5dfcabd9bb7f",
+    "frames": 642
+  },
+  {
+    "case_id": 21,
+    "split": "train",
+    "image_directory": "E:\\第二组：周骐+李紫弯\\WD00000021",
+    "annotation": "D:\\甲状腺通过标注\\WD00000021_cs.seg.nrrd",
+    "annotation_sha256": "5fd40c57feea0f884377ddd6090968bc7ae766bd4989b8560d81ff2b1bed0878",
+    "frames": 737
+  },
+  {
+    "case_id": 22,
+    "split": "train",
+    "image_directory": "E:\\第二组：周骐+李紫弯\\WD00000022",
+    "annotation": "D:\\甲状腺通过标注\\WD00000022_cs.seg.nrrd",
+    "annotation_sha256": "5cc3eb85f3df1c4e19e3b8d31977aca1f785d295c66d35d5956ab80b6bd89f93",
+    "frames": 482
+  },
+  {
+    "case_id": 23,
+    "split": "test",
+    "image_directory": "E:\\第二组：周骐+李紫弯\\WD00000023",
+    "annotation": "D:\\甲状腺通过标注\\WD000000023_cs.seg.nrrd",
+    "annotation_sha256": "7dca68e5d2f1cf2959b406031d8f20363c1eaa9b1f74f9d9f15dd0d3e727cc50",
+    "frames": 504
+  },
+  {
+    "case_id": 25,
+    "split": "train",
+    "image_directory": "E:\\第二组：周骐+李紫弯\\WD00000025",
+    "annotation": "D:\\甲状腺通过标注\\WD00000025_cs.seg.nrrd",
+    "annotation_sha256": "da6cb0495a193fd03b1b82221d8bb552798ea47e63f0f8c7026edc45811e30ff",
+    "frames": 905
+  },
+  {
+    "case_id": 26,
+    "split": "train",
+    "image_directory": "E:\\第二组：周骐+李紫弯\\WD00000026",
+    "annotation": "D:\\甲状腺通过标注\\WD00000026_cs.seg.nrrd",
+    "annotation_sha256": "b37b027cd6b5ae62cf20a4879155e22734922cfca5da4a660bf17d24756a7b5f",
+    "frames": 451
+  },
+  {
+    "case_id": 27,
+    "split": "val",
+    "image_directory": "E:\\第三组：乔俨楠+张佳慧\\WD00000027",
+    "annotation": "D:\\甲状腺通过标注\\WD00000027_cs.seg.nrrd",
+    "annotation_sha256": "73a763fa8667b74fb092671294281eaa2c53a1504496b10f6e16f04abc6b6821",
+    "frames": 640
+  },
+  {
+    "case_id": 28,
+    "split": "train",
+    "image_directory": "E:\\第三组：乔俨楠+张佳慧\\WD00000028",
+    "annotation": "D:\\甲状腺通过标注\\WD00000028_cs.seg.nrrd",
+    "annotation_sha256": "59dca08bea8bec8bf2c3d1b034b518e2e8cdde39d7a7d1730dffb6bf0424f6f3",
+    "frames": 719
+  },
+  {
+    "case_id": 29,
+    "split": "test",
+    "image_directory": "E:\\第三组：乔俨楠+张佳慧\\WD00000029",
+    "annotation": "D:\\甲状腺通过标注\\WD00000029_cs.seg.nrrd",
+    "annotation_sha256": "8ae8dee68097ed9eab091b450a6cf744084243962220534544551e5ca81afef2",
+    "frames": 728
+  },
+  {
+    "case_id": 30,
+    "split": "val",
+    "image_directory": "E:\\第三组：乔俨楠+张佳慧\\WD00000030",
+    "annotation": "D:\\甲状腺通过标注\\WD00000030_cs.seg.nrrd",
+    "annotation_sha256": "09cbfac2a750c2b7005967111f99dbec202dd5e733ff77e36eb876e2d5185801",
+    "frames": 922
+  },
+  {
+    "case_id": 33,
+    "split": "train",
+    "image_directory": "E:\\第三组：乔俨楠+张佳慧\\WD00000033",
+    "annotation": "D:\\甲状腺通过标注\\WD00000033_cs.seg.nrrd",
+    "annotation_sha256": "7be807427e1c0d7793606046c5c0a0eee36087d3c57620e489b7d124e5ffb32a",
+    "frames": 679
+  },
+  {
+    "case_id": 35,
+    "split": "train",
+    "image_directory": "E:\\第三组：乔俨楠+张佳慧\\WD00000035",
+    "annotation": "D:\\甲状腺通过标注\\WD00000035_cs.seg.nrrd",
+    "annotation_sha256": "7ebf6f29f78c3e0c29941d341f183d41d213a4d470d1be77dcf26f4b9279d354",
+    "frames": 786
+  },
+  {
+    "case_id": 44,
+    "split": "train",
+    "image_directory": "E:\\第四组：黄琬淋+侯铮\\WD00000044",
+    "annotation": "D:\\甲状腺通过标注\\WD00000044_cs.seg.nrrd",
+    "annotation_sha256": "149550cf5e822b6c1defb2a5b69a2b55e087e47cd9eb4310cd82e1d4c1a85db8",
+    "frames": 1220
+  },
+  {
+    "case_id": 45,
+    "split": "train",
+    "image_directory": "E:\\第四组：黄琬淋+侯铮\\WD00000045",
+    "annotation": "D:\\甲状腺通过标注\\WD00000045_cs.seg.nrrd",
+    "annotation_sha256": "485fa7d6be6a5a5c8afa2b5c1f16ac1ddce6dc87c787c1054342a5955b2dce1d",
+    "frames": 701
+  },
+  {
+    "case_id": 46,
+    "split": "train",
+    "image_directory": "E:\\第四组：黄琬淋+侯铮\\WD00000046",
+    "annotation": "D:\\甲状腺通过标注\\WD00000046_cs.seg.nrrd",
+    "annotation_sha256": "b108fa4ac2e0aae2695b4268c72de973b4f42ba4d84199e5e72f4457a90cec98",
+    "frames": 676
+  },
+  {
+    "case_id": 47,
+    "split": "test",
+    "image_directory": "E:\\第四组：黄琬淋+侯铮\\WD00000047",
+    "annotation": "D:\\甲状腺通过标注\\WD00000047_cs.seg.nrrd",
+    "annotation_sha256": "0c08b79fc1ad79b018e6059b651e2856da122f8264a8c295053474fceb2d7c30",
+    "frames": 634
+  },
+  {
+    "case_id": 48,
+    "split": "val",
+    "image_directory": "E:\\第四组：黄琬淋+侯铮\\WD00000048",
+    "annotation": "D:\\甲状腺通过标注\\WD00000048_cs.seg.nrrd",
+    "annotation_sha256": "f1b2791943eb8e045eff6ac7c47e9c646d74615321a1efd70870d68badc9d36a",
+    "frames": 1022
+  },
+  {
+    "case_id": 49,
+    "split": "train",
+    "image_directory": "E:\\第四组：黄琬淋+侯铮\\WD00000049",
+    "annotation": "D:\\甲状腺通过标注\\WD00000049_cs.seg.nrrd",
+    "annotation_sha256": "fe3851f3e2ab2345e247d19f7535b2e2c9007473e3832f198e14fd4ad130b291",
+    "frames": 830
+  },
+  {
+    "case_id": 50,
+    "split": "train",
+    "image_directory": "E:\\第四组：黄琬淋+侯铮\\WD00000050",
+    "annotation": "D:\\甲状腺通过标注\\WD00000050_cs.seg.nrrd",
+    "annotation_sha256": "b85cdcf3cc6e52ab080943bcfec0549bbae6065b8239d427d3a0993b043f1434",
+    "frames": 784
+  },
+  {
+    "case_id": 51,
+    "split": "val",
+    "image_directory": "E:\\第四组：黄琬淋+侯铮\\WD00000051",
+    "annotation": "D:\\甲状腺通过标注\\WD00000051_cs.seg.nrrd",
+    "annotation_sha256": "fea2b1664a3425096b69f95cd42d9f14e2d73b8b7eba923f0bb5e9cb64bedb08",
+    "frames": 624
+  },
+  {
+    "case_id": 52,
+    "split": "train",
+    "image_directory": "E:\\第四组：黄琬淋+侯铮\\WD00000052",
+    "annotation": "D:\\甲状腺通过标注\\WD00000052_cs.seg.nrrd",
+    "annotation_sha256": "450124ac8aee60159e5e3b768b54a3abce892302940a05b0627ff13f4b0b7899",
+    "frames": 809
+  },
+  {
+    "case_id": 53,
+    "split": "test",
+    "image_directory": "E:\\第五组：冯明玉+颜子寒\\WD00000053",
+    "annotation": "D:\\甲状腺通过标注\\WD00000053_cs.seg.nrrd",
+    "annotation_sha256": "c30bf4ff471fa1a128ab75b21ed6975e4d8ff0b81175313eefadea99c76d447f",
+    "frames": 669
+  },
+  {
+    "case_id": 54,
+    "split": "train",
+    "image_directory": "E:\\第五组：冯明玉+颜子寒\\WD00000054",
+    "annotation": "D:\\甲状腺通过标注\\WD00000054_cs.seg.nrrd",
+    "annotation_sha256": "87d8f082571d9349047253973bf5b2efe7ef6c7bd44ba5d3026c841e62865f76",
+    "frames": 909
+  },
+  {
+    "case_id": 55,
+    "split": "train",
+    "image_directory": "E:\\第五组：冯明玉+颜子寒\\WD00000055",
+    "annotation": "D:\\甲状腺通过标注\\WD00000055_cs.seg.nrrd",
+    "annotation_sha256": "e9a093b9c052acfeb92b97905ea58eaa695c31a3434ed098593a778a62c176fb",
+    "frames": 658
+  },
+  {
+    "case_id": 56,
+    "split": "train",
+    "image_directory": "E:\\第五组：冯明玉+颜子寒\\WD00000056",
+    "annotation": "D:\\甲状腺通过标注\\WD00000056_cs.seg.nrrd",
+    "annotation_sha256": "dc2adf47c5eb6f273764daf47486f0aa5873821959e9f197983371b1aab723bb",
+    "frames": 836
+  },
+  {
+    "case_id": 57,
+    "split": "train",
+    "image_directory": "E:\\第五组：冯明玉+颜子寒\\WD00000057",
+    "annotation": "D:\\甲状腺通过标注\\WD00000057_cs.seg.nrrd",
+    "annotation_sha256": "6f40a5b150980ddf53a4ce113e53281a4d355700addb718753b96af22b36cf04",
+    "frames": 694
+  },
+  {
+    "case_id": 58,
+    "split": "train",
+    "image_directory": "E:\\第五组：冯明玉+颜子寒\\WD00000058",
+    "annotation": "D:\\甲状腺通过标注\\WD00000058_cs.seg.nrrd",
+    "annotation_sha256": "801466a0bf651df408db013db89525f66699dc7d45e456b8bc25d5450169dd92",
+    "frames": 1316
+  },
+  {
+    "case_id": 59,
+    "split": "val",
+    "image_directory": "E:\\第五组：冯明玉+颜子寒\\WD00000059",
+    "annotation": "D:\\甲状腺通过标注\\WD00000059_cs.seg.nrrd",
+    "annotation_sha256": "be72273617d0de2cb7680d3fb3fe6606fc8f8fadbe2eddbae265fbfa1895e97b",
+    "frames": 704
+  },
+  {
+    "case_id": 60,
+    "split": "test",
+    "image_directory": "E:\\第五组：冯明玉+颜子寒\\WD00000060",
+    "annotation": "D:\\甲状腺通过标注\\WD00000060_cs.seg.nrrd",
+    "annotation_sha256": "18065f2873306ee0c5fecdac83227a817b4d7317cd504d06c88208fcf20e7a15",
+    "frames": 572
+  },
+  {
+    "case_id": 62,
+    "split": "train",
+    "image_directory": "E:\\第五组：冯明玉+颜子寒\\WD00000062",
+    "annotation": "D:\\甲状腺通过标注\\WD00000062_cs.seg.nrrd",
+    "annotation_sha256": "bc06e3c2ed1db84b14973c0f370d0a68f8c5454e9efc8b002c64476c99468e95",
+    "frames": 708
+  },
+  {
+    "case_id": 63,
+    "split": "train",
+    "image_directory": "E:\\第一组：贾树昕+刘子琪（第二批数据）\\WD00000063",
+    "annotation": "D:\\甲状腺通过标注\\WD00000063_cs.seg.nrrd",
+    "annotation_sha256": "ee7503b021b04bd689146dd6deab7414244f7d0021d63cf77154f0c17c124edb",
+    "frames": 806
+  },
+  {
+    "case_id": 64,
+    "split": "train",
+    "image_directory": "E:\\第一组：贾树昕+刘子琪（第二批数据）\\WD00000064",
+    "annotation": "D:\\甲状腺通过标注\\WD00000064_cs.seg.nrrd",
+    "annotation_sha256": "0d34fcf8ea7e0784a2a8383001bbd9d17741205c1c897c53cb1f003770e83be4",
+    "frames": 1135
+  },
+  {
+    "case_id": 65,
+    "split": "test",
+    "image_directory": "E:\\第一组：贾树昕+刘子琪（第二批数据）\\WD00000065",
+    "annotation": "D:\\甲状腺通过标注\\WD00000065_cs.seg.nrrd",
+    "annotation_sha256": "4a2aa3d258e1c1dbc69a9add02d5a81e6ecd836e4ddcfb692c937ced617f7914",
+    "frames": 774
+  },
+  {
+    "case_id": 66,
+    "split": "train",
+    "image_directory": "E:\\第一组：贾树昕+刘子琪（第二批数据）\\WD00000066",
+    "annotation": "D:\\甲状腺通过标注\\WD00000066_cs.seg.nrrd",
+    "annotation_sha256": "d107d64e61d6c4c5a233ecf10b237c0879140ced0d8353cd630833e6b62514c9",
+    "frames": 803
+  },
+  {
+    "case_id": 67,
+    "split": "test",
+    "image_directory": "E:\\第一组：贾树昕+刘子琪（第二批数据）\\WD00000067",
+    "annotation": "D:\\甲状腺通过标注\\WD00000067_cs.seg.nrrd",
+    "annotation_sha256": "951b20668bf1ee5f41db306f5fe7330232bd51de6253de9fb2b6089d86efe340",
+    "frames": 719
+  },
+  {
+    "case_id": 68,
+    "split": "train",
+    "image_directory": "E:\\第一组：贾树昕+刘子琪（第二批数据）\\WD00000068",
+    "annotation": "D:\\甲状腺通过标注\\WD00000068_cs.seg.nrrd",
+    "annotation_sha256": "b23fa4253bf324538893e6ed2431c27b69ffdb07f7b2ca91721ff244ff00dc2b",
+    "frames": 999
+  },
+  {
+    "case_id": 69,
+    "split": "train",
+    "image_directory": "E:\\第一组：贾树昕+刘子琪（第二批数据）\\WD00000069",
+    "annotation": "D:\\甲状腺通过标注\\WD00000069_cs.seg.nrrd",
+    "annotation_sha256": "23bade899fa69966ac0625eb61ce61388502181bc8b36b72802685bcd2798bfd",
+    "frames": 889
+  },
+  {
+    "case_id": 70,
+    "split": "train",
+    "image_directory": "E:\\第一组：贾树昕+刘子琪（第二批数据）\\WD00000070",
+    "annotation": "D:\\甲状腺通过标注\\WD00000070_cs.seg.nrrd",
+    "annotation_sha256": "97dc63b25f5850d7aecc2a0fa26caf36af0c69437ce7825f2e749780324ed7cf",
+    "frames": 723
+  },
+  {
+    "case_id": 71,
+    "split": "train",
+    "image_directory": "E:\\第一组：贾树昕+刘子琪（第二批数据）\\WD00000071",
+    "annotation": "D:\\甲状腺通过标注\\WD00000071_cs.seg.nrrd",
+    "annotation_sha256": "a58779e9604725c8fb06cd038bd83a319b71b1c301609b511af5f6dfc8a29a8f",
+    "frames": 1084
+  },
+  {
+    "case_id": 74,
+    "split": "test",
+    "image_directory": "E:\\第二组：周   骐+李紫弯（第二批数据）\\WD00000074",
+    "annotation": "D:\\甲状腺通过标注\\WD00000074_cs.seg.nrrd",
+    "annotation_sha256": "77d4bcb6bbdd7e1bde8ce061846ad469865755b247910268be1b684ef061949d",
+    "frames": 785
+  },
+  {
+    "case_id": 75,
+    "split": "train",
+    "image_directory": "E:\\第二组：周   骐+李紫弯（第二批数据）\\WD00000075",
+    "annotation": "D:\\甲状腺通过标注\\WD00000075_cs.seg.nrrd",
+    "annotation_sha256": "34d8a1757423b92dc026bb535d4d5bcd0c3a41795d75dc4ac1d216a924caa69e",
+    "frames": 834
+  },
+  {
+    "case_id": 76,
+    "split": "test",
+    "image_directory": "E:\\第二组：周   骐+李紫弯（第二批数据）\\WD00000076",
+    "annotation": "D:\\甲状腺通过标注\\WD00000076_cs.seg.nrrd",
+    "annotation_sha256": "13cc8fd595b62e9140d2c2360c2077063b22c088053a2560d80d33e5fe114d0b",
+    "frames": 1100
+  },
+  {
+    "case_id": 77,
+    "split": "train",
+    "image_directory": "E:\\第二组：周   骐+李紫弯（第二批数据）\\WD00000077",
+    "annotation": "D:\\甲状腺通过标注\\WD00000077_cs.seg.nrrd",
+    "annotation_sha256": "297ddfeae2f2151ae4e200c138f8e165bffc2895112256068a780de70a62e8c6",
+    "frames": 495
+  },
+  {
+    "case_id": 78,
+    "split": "train",
+    "image_directory": "E:\\第二组：周   骐+李紫弯（第二批数据）\\WD00000078",
+    "annotation": "D:\\甲状腺通过标注\\WD00000078_cs.seg.nrrd",
+    "annotation_sha256": "61fd3de47394ff24b8a545a09b32e6488c49ac2b9bd9f09ac1d74e5d014763d9",
+    "frames": 561
+  },
+  {
+    "case_id": 79,
+    "split": "val",
+    "image_directory": "E:\\第二组：周   骐+李紫弯（第二批数据）\\WD00000079",
+    "annotation": "D:\\甲状腺通过标注\\WD00000079_cs.seg.nrrd",
+    "annotation_sha256": "2b32a4ce5ba0bde3ea4aa3f4c0148f85679469b0c65caa911dcbb8ee1c13cf3d",
+    "frames": 891
+  },
+  {
+    "case_id": 80,
+    "split": "train",
+    "image_directory": "E:\\第二组：周   骐+李紫弯（第二批数据）\\WD00000080",
+    "annotation": "D:\\甲状腺通过标注\\WD00000080_cs.seg.nrrd",
+    "annotation_sha256": "3e492cfabfdcb85917863a820477b4e4eb2b5b1ab2c66461533c7938c7821d12",
+    "frames": 1313
+  },
+  {
+    "case_id": 81,
+    "split": "train",
+    "image_directory": "E:\\第二组：周   骐+李紫弯（第二批数据）\\WD00000081",
+    "annotation": "D:\\甲状腺通过标注\\WD00000081_cs.seg.nrrd",
+    "annotation_sha256": "8f0a2e3deeb356257b698c94b2b0c6e37ca043a56b4740fdbe4a144b9f84cd47",
+    "frames": 1006
+  },
+  {
+    "case_id": 82,
+    "split": "train",
+    "image_directory": "E:\\第二组：周   骐+李紫弯（第二批数据）\\WD00000082",
+    "annotation": "D:\\甲状腺通过标注\\WD00000082_cs.seg.nrrd",
+    "annotation_sha256": "426e910538e9111061a7c5c99792a685fd29f94681e17e7bdae49024d5a7eb67",
+    "frames": 541
+  },
+  {
+    "case_id": 83,
+    "split": "train",
+    "image_directory": "E:\\第二组：周   骐+李紫弯（第二批数据）\\WD00000083",
+    "annotation": "D:\\甲状腺通过标注\\WD00000083_cs.seg.nrrd",
+    "annotation_sha256": "a566ccb37e2ad1606c6950a6ddd0a0adfbee9abc160990e14b6d26af983224b8",
+    "frames": 936
+  },
+  {
+    "case_id": 84,
+    "split": "train",
+    "image_directory": "E:\\第三组：乔俨楠+张佳慧（第二批数据）\\WD00000084",
+    "annotation": "D:\\甲状腺通过标注\\WD00000084_cs.seg.nrrd",
+    "annotation_sha256": "3222b65c298dd52d6b4479d5bdbab6fd39002568a5a350bbb44ef06187b752c1",
+    "frames": 697
+  },
+  {
+    "case_id": 87,
+    "split": "train",
+    "image_directory": "E:\\第三组：乔俨楠+张佳慧（第二批数据）\\WD00000087",
+    "annotation": "D:\\甲状腺通过标注\\WD00000087_cs.seg.nrrd",
+    "annotation_sha256": "9e0c6420424b3a63816c6070c3c3cb2a8f15da253e879b9c4fae9f1230f77f85",
+    "frames": 391
+  },
+  {
+    "case_id": 88,
+    "split": "train",
+    "image_directory": "E:\\第三组：乔俨楠+张佳慧（第二批数据）\\WD00000088",
+    "annotation": "D:\\甲状腺通过标注\\WD00000088_cs.seg.nrrd",
+    "annotation_sha256": "a7f3c1211fe67e71605073097a63235d131f6e921adcdfa64c66e9180e198725",
+    "frames": 775
+  },
+  {
+    "case_id": 89,
+    "split": "test",
+    "image_directory": "E:\\第三组：乔俨楠+张佳慧（第二批数据）\\WD00000089",
+    "annotation": "D:\\甲状腺通过标注\\WD00000089_cs.seg.nrrd",
+    "annotation_sha256": "29867ce4399aca691306b212ba1cfd94ea197ef8294ea6cc363875c5080c752a",
+    "frames": 765
+  },
+  {
+    "case_id": 90,
+    "split": "train",
+    "image_directory": "E:\\第三组：乔俨楠+张佳慧（第二批数据）\\WD00000090",
+    "annotation": "D:\\甲状腺通过标注\\WD00000090_cs.seg.nrrd",
+    "annotation_sha256": "edaca9fc15e767254fe86e0a9454230cca73a2500e7ca77109e91240edbd2910",
+    "frames": 681
+  },
+  {
+    "case_id": 91,
+    "split": "train",
+    "image_directory": "E:\\第三组：乔俨楠+张佳慧（第二批数据）\\WD00000091",
+    "annotation": "D:\\甲状腺通过标注\\WD00000091_cs.seg.nrrd",
+    "annotation_sha256": "69d56d7430a7c62dc7509ae74ec823fb6e7ed3a4a8af536926d975779577e7b0",
+    "frames": 566
+  },
+  {
+    "case_id": 92,
+    "split": "train",
+    "image_directory": "E:\\第三组：乔俨楠+张佳慧（第二批数据）\\WD00000092",
+    "annotation": "D:\\甲状腺通过标注\\WD00000092_cs.seg.nrrd",
+    "annotation_sha256": "ad459d8ba4f1b51970a940d26ae27eecd9f2bd5ea038a89b5d1e6a6594eb1f0d",
+    "frames": 1257
+  },
+  {
+    "case_id": 93,
+    "split": "train",
+    "image_directory": "E:\\第三组：乔俨楠+张佳慧（第二批数据）\\WD00000093",
+    "annotation": "D:\\甲状腺通过标注\\WD00000093_cs.seg.nrrd",
+    "annotation_sha256": "b2fc5904c4203caed949884e35234356c0d574528455fd6020b89e59a496297b",
+    "frames": 2917
+  },
+  {
+    "case_id": 94,
+    "split": "train",
+    "image_directory": "E:\\第三组：乔俨楠+张佳慧（第二批数据）\\WD00000094",
+    "annotation": "D:\\甲状腺通过标注\\WD00000094_cs.seg.nrrd",
+    "annotation_sha256": "ccdb34036916b9b855b6025a53886e2ff7a28280d8688d9ee78d9008c186883b",
+    "frames": 941
+  },
+  {
+    "case_id": 95,
+    "split": "val",
+    "image_directory": "E:\\第三组：乔俨楠+张佳慧（第二批数据）\\WD00000095",
+    "annotation": "D:\\甲状腺通过标注\\WD00000095_cs.seg.nrrd",
+    "annotation_sha256": "c6c59181394964b7d543f9f6d6b1dcc9cbfc266e48a8c84ab5fe20d5480dc3dc",
+    "frames": 535
+  },
+  {
+    "case_id": 96,
+    "split": "val",
+    "image_directory": "E:\\第四组：黄琬淋+侯铮（第二批数据）\\WD00000096",
+    "annotation": "D:\\甲状腺通过标注\\WD00000096_cs.seg.nrrd",
+    "annotation_sha256": "3199d31e964c05878f055887744afce25fe9122a32a676295823250085a750ec",
+    "frames": 711
+  },
+  {
+    "case_id": 97,
+    "split": "train",
+    "image_directory": "E:\\第四组：黄琬淋+侯铮（第二批数据）\\WD00000097",
+    "annotation": "D:\\甲状腺通过标注\\WD00000097_cs.seg.nrrd",
+    "annotation_sha256": "bf276aab5387602d8b12af02283f292d9c18bfa3541b4935af3bafcf83539684",
+    "frames": 570
+  },
+  {
+    "case_id": 98,
+    "split": "train",
+    "image_directory": "E:\\第四组：黄琬淋+侯铮（第二批数据）\\WD00000098",
+    "annotation": "D:\\甲状腺通过标注\\WD00000098_cs.seg.nrrd",
+    "annotation_sha256": "2572d3ce84af5ad2febfaba35e2cc63835351c7fd1992f7d43c80d086385d5eb",
+    "frames": 940
+  },
+  {
+    "case_id": 99,
+    "split": "train",
+    "image_directory": "E:\\第四组：黄琬淋+侯铮（第二批数据）\\WD00000099",
+    "annotation": "D:\\甲状腺通过标注\\WD00000099_cs.seg.nrrd",
+    "annotation_sha256": "9f9f3899457784d884483abd7de278b9cde7c5847424b5d41fc54367db89f4d6",
+    "frames": 564
+  },
+  {
+    "case_id": 100,
+    "split": "train",
+    "image_directory": "E:\\第四组：黄琬淋+侯铮（第二批数据）\\WD00000100",
+    "annotation": "D:\\甲状腺通过标注\\WD00000100_cs.seg.nrrd",
+    "annotation_sha256": "ad6307059764a59426e5e3e0b26a63a236d5e5e3de624e27199f91803e3a7485",
+    "frames": 711
+  },
+  {
+    "case_id": 101,
+    "split": "train",
+    "image_directory": "E:\\第四组：黄琬淋+侯铮（第二批数据）\\WD00000101",
+    "annotation": "D:\\甲状腺通过标注\\WD00000101_cs.seg.nrrd",
+    "annotation_sha256": "0e510d248f13798b9b9650a7e6d9712e53ed56e46554f49725687d5a51fd896e",
+    "frames": 649
+  },
+  {
+    "case_id": 102,
+    "split": "train",
+    "image_directory": "E:\\第四组：黄琬淋+侯铮（第二批数据）\\WD00000102",
+    "annotation": "D:\\甲状腺通过标注\\WD00000102_cs.seg.nrrd",
+    "annotation_sha256": "df0f6f800ff3a98521035c181e847741ee5f841fde5851a679294e3011cd5732",
+    "frames": 661
+  },
+  {
+    "case_id": 103,
+    "split": "test",
+    "image_directory": "E:\\第四组：黄琬淋+侯铮（第二批数据）\\WD00000103",
+    "annotation": "D:\\甲状腺通过标注\\WD00000103_cs.seg.nrrd",
+    "annotation_sha256": "3601bba354284fdd766ef620e48ca7649acdce060de1548483529b6a2a454dda",
+    "frames": 697
+  },
+  {
+    "case_id": 104,
+    "split": "train",
+    "image_directory": "E:\\第四组：黄琬淋+侯铮（第二批数据）\\WD00000104",
+    "annotation": "D:\\甲状腺通过标注\\WD00000104_cs.seg.nrrd",
+    "annotation_sha256": "4b3476dc0f24df73e65333eaea09ec00f961db3d0fa91c45d2f9cf0b08d7225e",
+    "frames": 993
+  },
+  {
+    "case_id": 105,
+    "split": "train",
+    "image_directory": "E:\\第四组：黄琬淋+侯铮（第二批数据）\\WD00000105",
+    "annotation": "D:\\甲状腺通过标注\\WD00000105_cs.seg.nrrd",
+    "annotation_sha256": "0fe3d5a89bfb051ffbc262dee5fcdb47d9d8ea520ae431e2cb0ff147f1b20384",
+    "frames": 717
+  },
+  {
+    "case_id": 106,
+    "split": "train",
+    "image_directory": "E:\\第五组：冯明玉+颜子寒（第二批数据）\\WD00000106",
+    "annotation": "D:\\甲状腺通过标注\\WD00000106_cs.seg.nrrd",
+    "annotation_sha256": "4a2d4c9ffb5c5cfddb52e4ee0471db79e3f19fa2d7cab5fa427d74d624d575d3",
+    "frames": 839
+  },
+  {
+    "case_id": 107,
+    "split": "train",
+    "image_directory": "E:\\第五组：冯明玉+颜子寒（第二批数据）\\WD00000107",
+    "annotation": "D:\\甲状腺通过标注\\WD00000107_cs.seg.nrrd",
+    "annotation_sha256": "cdca62069867ab805db089118d6bb475a79a085e9fccb8278507cd820d3f3cf2",
+    "frames": 568
+  },
+  {
+    "case_id": 108,
+    "split": "train",
+    "image_directory": "E:\\第五组：冯明玉+颜子寒（第二批数据）\\WD00000108",
+    "annotation": "D:\\甲状腺通过标注\\WD00000108_cs.seg.nrrd",
+    "annotation_sha256": "b9e6fbdb6f7f771e241ff931720cd5da4f84c5127b53ce554ef69e1b1c2f2bc1",
+    "frames": 729
+  },
+  {
+    "case_id": 109,
+    "split": "val",
+    "image_directory": "E:\\第五组：冯明玉+颜子寒（第二批数据）\\WD00000109",
+    "annotation": "D:\\甲状腺通过标注\\WD00000109_cs.seg.nrrd",
+    "annotation_sha256": "decf14afaf84af546004c456731d7796fe01ae9a98ed2427edb6f0096bd781d7",
+    "frames": 1844
+  },
+  {
+    "case_id": 110,
+    "split": "val",
+    "image_directory": "E:\\第五组：冯明玉+颜子寒（第二批数据）\\WD00000110",
+    "annotation": "D:\\甲状腺通过标注\\WD00000110_cs.seg.nrrd",
+    "annotation_sha256": "bb5f75ec4f9cddc2e54bbdfb48c69ce225b7421a0d8a641cc621e5ac23663345",
+    "frames": 983
+  },
+  {
+    "case_id": 111,
+    "split": "train",
+    "image_directory": "E:\\第五组：冯明玉+颜子寒（第二批数据）\\WD00000111",
+    "annotation": "D:\\甲状腺通过标注\\WD00000111_cs.seg.nrrd",
+    "annotation_sha256": "b28c42c3356a79dc4e34f9db1eb6166f4a478d4f63f6172682125269efe9daf6",
+    "frames": 608
+  },
+  {
+    "case_id": 112,
+    "split": "val",
+    "image_directory": "E:\\第五组：冯明玉+颜子寒（第二批数据）\\WD00000112",
+    "annotation": "D:\\甲状腺通过标注\\WD00000112_cs.seg.nrrd",
+    "annotation_sha256": "7781712b35cbf200d98fe2dc46b6a6595ad38ff2d433ab52cb7a0572d1394a66",
+    "frames": 662
+  },
+  {
+    "case_id": 113,
+    "split": "val",
+    "image_directory": "E:\\第五组：冯明玉+颜子寒（第二批数据）\\WD00000113",
+    "annotation": "D:\\甲状腺通过标注\\WD00000113_cs.seg.nrrd",
+    "annotation_sha256": "34d95675db446417125c0dabdd479875ffd981571acb3dcfa197b304af78cff9",
+    "frames": 360
+  },
+  {
+    "case_id": 114,
+    "split": "train",
+    "image_directory": "E:\\第五组：冯明玉+颜子寒（第二批数据）\\WD00000114",
+    "annotation": "D:\\甲状腺通过标注\\WD00000114_cs.seg.nrrd",
+    "annotation_sha256": "61586f193952003e6eb0938aa7b41c0859de104e0b398b68f53db13197e5b67b",
+    "frames": 407
+  },
+  {
+    "case_id": 115,
+    "split": "train",
+    "image_directory": "E:\\第五组：冯明玉+颜子寒（第二批数据）\\WD00000115",
+    "annotation": "D:\\甲状腺通过标注\\WD00000115_cs.seg.nrrd",
+    "annotation_sha256": "e999a86d400c18ece00095756cd51cb287328f61455b1d0e16ca44979798db08",
+    "frames": 862
+  }
+]

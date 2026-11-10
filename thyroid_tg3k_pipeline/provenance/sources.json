@@ -1,0 +1,47 @@
+[
+  {
+    "source": "C:\\Users\\l'x\\thyroid_cmunet\\manifest.json",
+    "snapshot": "provenance\\manifest.json",
+    "sha256": "9afb62ed9ed6c4dd3f4b81ca9cc4057d1730e9223cddf42e1c57ce1c71fbfd7a"
+  },
+  {
+    "source": "C:\\Users\\l'x\\thyroid_cmunet\\case_split.json",
+    "snapshot": "provenance\\case_split.json",
+    "sha256": "d7afc9383ca836207e5b39f1e03f2c7c3f12ed05e1baa93e214cb0efb897cccc"
+  },
+  {
+    "source": "C:\\Users\\l'x\\thyroid_cmunet\\excluded.json",
+    "snapshot": "provenance\\excluded.json",
+    "sha256": "530b1036311ae6ed8c225d2e2ef6184c55386ef2bab7f55bc1276f5ae57a79e6"
+  },
+  {
+    "source": "C:\\Users\\l'x\\thyroid_cmunet\\selection_summary.json",
+    "snapshot": "provenance\\selection_summary.json",
+    "sha256": "a15f0626e4abfe09a4516d91dc1858916437eb896cebcfb68815ce1bf1532ef4"
+  },
+  {
+    "source": "C:\\Users\\l'x\\Documents\\ChatGPT\\EC66机械臂算法开发\\artifacts\\tg3k_split\\group_summary.csv",
+    "snapshot": "provenance\\tg3k\\group_summary.csv",
+    "sha256": "d351bb225918c71c91cfd71f21aefdedfe08fba106d428ab6d7b93295f809bc9"
+  },
+  {
+    "source": "C:\\Users\\l'x\\Documents\\ChatGPT\\EC66机械臂算法开发\\artifacts\\tg3k_split\\make_split.py",
+    "snapshot": "provenance\\tg3k\\make_split.py",
+    "sha256": "0ad29e62a746e2a1ef4d0dc7c17a9a9d9f26dcaea47881c89cc288a8ae98eba1"
+  },
+  {
+    "source": "C:\\Users\\l'x\\Documents\\ChatGPT\\EC66机械臂算法开发\\artifacts\\tg3k_split\\README.md",
+    "snapshot": "provenance\\tg3k\\README.md",
+    "sha256": "1e25d4a321ac993cb92d89908287079f1947cd28cc39a6a39bdc4ade42ebe479"
+  },
+  {
+    "source": "C:\\Users\\l'x\\Documents\\ChatGPT\\EC66机械臂算法开发\\artifacts\\tg3k_split\\split_ids.json",
+    "snapshot": "provenance\\tg3k\\split_ids.json",
+    "sha256": "ac0c554b3cbb55170ae2863a6a441c217b4ca8a7d47fac653e09d4f08c7060c5"
+  },
+  {
+    "source": "C:\\Users\\l'x\\Documents\\ChatGPT\\EC66机械臂算法开发\\artifacts\\tg3k_split\\split_manifest.csv",
+    "snapshot": "provenance\\tg3k\\split_manifest.csv",
+    "sha256": "64dfc73f987fb8d67c160368eac82fa1241e0a08ce614c965544280ba2a71e82"
+  }
+]
